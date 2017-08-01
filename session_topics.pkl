@@ -1,0 +1,2256 @@
+(dp1
+I9
+(lp2
+S'Oral Answers to Questions \xe2\x80\x94 ROYAL NAVY'
+p3
+aS'Oral Answers to Questions \xe2\x80\x94 ARMS SURRENDER, BELGIUM (BRITISH MILITARY ACTION)'
+p4
+aS'Orders of the Day \xe2\x80\x94 FOOD PRESERVATIVES (REGULATION)'
+p5
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN KING TIGER TANK'
+p6
+aS'Orders of the Day \xe2\x80\x94 AIRCRAFT FACTORY PREMISES, MANCHESTER (USE)'
+p7
+aS'Oral Answers to Questions \xe2\x80\x94 NAZI LEADERS (PRISON TREATMENT)'
+p8
+aS'HOUSE OF COMMONS (REDISTRIBUTION OF SEATS)'
+p9
+aS"Oral Answers to Questions \xe2\x80\x94 WAR WORKERS' CLUB, LOUGHBOROUGH"
+p10
+aS'HOUSING (AGRICULTURAL WORKERS)'
+p11
+aS'Oral Answers to Questions \xe2\x80\x94 OCCUPYING FORCES (VOLUNTEERS)'
+p12
+aS'Oral Answers to Questions \xe2\x80\x94 EXPORT TRADE POLICY'
+p13
+aS'Oral Answers to Questions \xe2\x80\x94 INDUSTRIAL INJURIES INSURANCE (MINISTERIAL RESPONSIBILITY)'
+p14
+aS'Oral Answers to Questions \xe2\x80\x94 FILM INDUSTRY (DISPUTE)'
+p15
+aS'Oral Answers to Questions \xe2\x80\x94 TOLL BRIDGE, WARBURTON'
+p16
+aS'RECRUITMENT TO THE CIVIL SERVICE'
+p17
+aS"Oral Answers to Questions \xe2\x80\x94 LATIN-AMERICAN TRADE (VISCOUNT HALIFAX'S SPEECH)"
+p18
+aS'Oral Answers to Questions \xe2\x80\x94 FRENCH INLAND WATERWAYS (TUGS)'
+p19
+aS'Oral Answers to Questions \xe2\x80\x94 SALVAGE COLLECTION'
+p20
+aS'Oral Answers to Questions \xe2\x80\x94 HOME GUARD FIREARMS (RETENTION)'
+p21
+aS'Oral Answers to Questions \xe2\x80\x94 LONDON REMAND HOME (INQUIRY)'
+p22
+aS'Oral Answers to Questions \xe2\x80\x94 DISCHARGED SERVICE PERSONNEL (RELEASE PAY)'
+p23
+aS'Oral Answers to Questions \xe2\x80\x94 HANSARD (BOUND VOLUMES)'
+p24
+aS'Orders of the Day \xe2\x80\x94 PLAYS (CENSORSHIP)'
+p25
+aS'Oral Answers to Questions \xe2\x80\x94 MIDWIVES'
+p26
+aS'Orders of the Day \xe2\x80\x94 THIRD SCHEDULE.\xe2\x80\x94(Provisions of Part III of the Conditions of Employment and National Arbitration Order, 1940, as modified)'
+p27
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTRICITY SUPPLIES'
+p28
+aS'Orders of the Day \xe2\x80\x94 EDUCATION (SCOTLAND) BILL'
+p29
+aS'Oral Answers to Questions \xe2\x80\x94 LOCAL GOVERNMENT ELECTORS'
+p30
+aS'Orders of the Day \xe2\x80\x94 EMERGENCY POWERS (DEFENCE) BILL'
+p31
+aS'Oral Answers to Questions \xe2\x80\x94 EUROPEAN COUNTRIES (DIPLOMATIC REPRESENTATION)'
+p32
+aS'Orders of the Day \xe2\x80\x94 DEBTS CLEARING OFFICES'
+p33
+aS'SYRIA AND LEBANON (BRITISH INTERVENTION)'
+p34
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL DEFENCE'
+p35
+aS'Oral Answers to Questions \xe2\x80\x94 COAL INDUSTRY (MECHANISATION)'
+p36
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL FRANCO (LETTER TO PRIME MINISTER)'
+p37
+aS'Oral Answers to Questions \xe2\x80\x94 NAZI WAR CRIMINALS'
+p38
+aS'Oral Answers to Questions \xe2\x80\x94 EX-SERVICE PERSONNEL (REINSTATEMENT AND RESETTLE> MENT)'
+p39
+aS'Orders of the Day \xe2\x80\x94 CLASS V SUPPLEMENTARY PENSIONS'
+p40
+aS'Orders of the Day \xe2\x80\x94 FIRST SCHEDULE.\xe2\x80\x94(Development Areas.)'
+p41
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL AVIATION (PARLIAMENTARY QUESTIONS)'
+p42
+aS'Orders of the Day \xe2\x80\x94 NATIONAL PARKS'
+p43
+aS'Oral Answers to Questions \xe2\x80\x94 HIGH COURT JUDGES (SALARIES)'
+p44
+aS'Oral Answers to Questions \xe2\x80\x94 FOREIGN SERVICE (TRANSFER GRANTS)'
+p45
+aS'Oral Answers to Questions \xe2\x80\x94 PRINCE PAUL OF YUGOSLAVIA'
+p46
+aS'Oral Answers to Questions \xe2\x80\x94 PRISONERS OF WAR (TREATMENT)'
+p47
+aS"Oral Answers to Questions \xe2\x80\x94 UNITED NATIONS (WOMEN'S FORCES)"
+p48
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR AND CIVILIAN INTERNEES, FAR EAST'
+p49
+aS'Oral Answers to Questions \xe2\x80\x94 RUMANIA (STATUS)'
+p50
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN CAMP, LVOV (BRITISH SUBJECTS)'
+p51
+aS"Orders of the Day \xe2\x80\x94 POLICE CONSTABLE, KEIGHLEY (WIDOW'S PENSION)"
+p52
+aS'CLAUSE 1.\xe2\x80\x94(Appointment and functions of the Minister of Fuel and Power.)'
+p53
+aS'Oral Answers to Questions \xe2\x80\x94 CAPITAL PUNISHMENT'
+p54
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (FOOD SITUATION)'
+p55
+aS'Oral Answers to Questions \xe2\x80\x94 MILITARY DESPATCHES (PUBLICATION)'
+p56
+aS'Oral Answers to Questions \xe2\x80\x94 ROADS'
+p57
+aS'Oral Answers to Questions \xe2\x80\x94 PERSIA (ALLIED FORCES)'
+p58
+aS'Oral Answers to Questions \xe2\x80\x94 BACON RATION'
+p59
+aS'Oral Answers to Questions \xe2\x80\x94 NORTHERN IRELAND (TRAVEL RESTRICTIONS)'
+p60
+aS'Oral Answers to Questions \xe2\x80\x94 CONQUERED ENEMY TERRITORIES (ADMINISTRATION)'
+p61
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSING'
+p62
+aS'Orders of the Day \xe2\x80\x94 PUBLICATIONS AND DEBATES REPORTS'
+p63
+aS'Oral Answers to Questions \xe2\x80\x94 SCOTLAND (TEMPORARY HOUSES)'
+p64
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED KINGDOM AND UNITED STATES (PATENT INTERCHANGE AGREEMENT)'
+p65
+aS"Orders of the Day \xe2\x80\x94 ROYAL NAVY (OFFICERS' MARRIAGE ALLOWANCE)"
+p66
+aS'NATIONAL SAVINGS COMMITTEE (LEAFLET)'
+p67
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL FIRE SERVICE (DISBANDMENT)'
+p68
+aS'Orders of the Day \xe2\x80\x94 POLICE AND CIVIL DEFENCE SERVICES (ARBITRATION MACHINERY)'
+p69
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICES WELFARE, INDIA'
+p70
+aS"KING'S SPEECH"
+p71
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIAL EMPIRE'
+p72
+aS'Oral Answers to Questions \xe2\x80\x94 SHIPBUILDING INDUSTRY'
+p73
+aS'Orders of the Day \xe2\x80\x94 ARMY ESTIMATES, 1945'
+p74
+aS"Oral Answers to Questions \xe2\x80\x94 1914\xe2\x80\x9318 WAR PENSIONS (OFFICERS' WIDOWS)"
+p75
+aS'Oral Answers to Questions \xe2\x80\x94 PETROL ALLOWANCE'
+p76
+aS'Oral Answers to Questions \xe2\x80\x94 DIRECTED MINEWORKERS (GRATUITY)'
+p77
+aS'RAILWAYS (CONTROL AGREEMENT)'
+p78
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE VOTERS (PROXIES)'
+p79
+aS'ADJOURNMENT (ACCELERATION OF MEETING)'
+p80
+aS'FIRE GUARD DUTIES (SUSPENSION)'
+p81
+aS'Orders of the Day \xe2\x80\x94 MILITARY SERVICE (COUNTY COUNCIL OFFICIAL)'
+p82
+aS'CIVIL ESTIMATES, 1945'
+p83
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTRICITY SUPPLY'
+p84
+aS'Oral Answers to Questions \xe2\x80\x94 POLAND (PROVISIONAL GOVERNMENT)'
+p85
+aS'Orders of the Day \xe2\x80\x94 EXPORT TRADE AND INDUSTRIAL CHANGE-OVER'
+p86
+aS'Oral Answers to Questions \xe2\x80\x94 ARAB STATES (CONFERENCE)'
+p87
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR'
+p88
+aS'Orders of the Day \xe2\x80\x94 FORESTRY COMMISSION (SURPLUS STOCKS, SALES)'
+p89
+aS'Oral Answers to Questions \xe2\x80\x94 BAHAMAS (SECRET BALLOT)'
+p90
+aS'Orders of the Day \xe2\x80\x94 TEACHERS (SUPERANNUATION) BILL'
+p91
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH ARMY (JOINT RELEASE COMMITTEE)'
+p92
+aS'LONDON MIDLAND AND SCOTTISH RAILWAY BILL [Lords] (Suspended Bill). [By Order].'
+p93
+aS'Orders of the Day \xe2\x80\x94 FOOT-AND-MOUTH DISEASE'
+p94
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH COUNCIL CLUB (FOOD PURCHASES)'
+p95
+aS'Orders of the Day \xe2\x80\x94 LIABILITIES (WAR-TIME ADJUSTMENT) (SCOTLAND) BILL [Lords]'
+p96
+aS'PLACE OF SITTING'
+p97
+aS'Oral Answers to Questions \xe2\x80\x94 WAR ORPHANS (LEGAL ADOPTION)'
+p98
+aS'Orders of the Day \xe2\x80\x94 WELSH CHURCH (BURIAL GROUNDS) BILL'
+p99
+aS'Orders of the Day \xe2\x80\x94 NATIONAL HEALTH'
+p100
+aS'Orders of the Day \xe2\x80\x94 CLASS IV MINISTRY OF EDUCATION'
+p101
+aS'CIVIL BUILDING WORK (LICENSING LIMIT)'
+p102
+aS'Oral Answers to Questions \xe2\x80\x94 LONDON POWER COMPANY, LIMITED'
+p103
+aS'PRIVATE BILL STANDING ORDERS'
+p104
+aS'ELECTORAL REGISTER (DISSOLUTION DATE)'
+p105
+aS'STANDING ORDERS NOT COMPLIED WITH'
+p106
+aS'Orders of the Day \xe2\x80\x94 AIR MINISTRY (ADMINISTRATION)'
+p107
+aS'Oral Answers to Questions \xe2\x80\x94 SAND REMOVAL, CORNWALL'
+p108
+aS'Oral Answers to Questions \xe2\x80\x94 ALIENS, GREAT BRITAIN (NATURALISATION)'
+p109
+aS'Orders of the Day \xe2\x80\x94 DISCHARGED SOLDIERS (HOSPITAL TREATMENT)'
+p110
+aS'Oral Answers to Questions \xe2\x80\x94 ITALIAN PRISONERS OF WAR (NON-CO-OPERATORS)'
+p111
+aS'Orders of the Day \xe2\x80\x94 COTTON INDUSTRY (MAN-POWER).'
+p112
+aS'Orders of the Day \xe2\x80\x94 GREECE (SITUATION)'
+p113
+aS'Oral Answers to Questions \xe2\x80\x94 CYPRUS (STRIKE)'
+p114
+aS'Oral Answers to Questions \xe2\x80\x94 TELEVISION (LICENCES)'
+p115
+aS'Oral Answers to Questions \xe2\x80\x94 PENSIONS APPEAL TRIBUNALS'
+p116
+aS'Oral Answers to Questions \xe2\x80\x94 WAR WORKERS ABROAD (PARLIAMENTARY FRANCHISE)'
+p117
+aS'Orders of the Day \xe2\x80\x94 CHURCH OF ENGLAND (NATIONAL ASSEMBLY) (MEASURES)'
+p118
+aS'Oral Answers to Questions \xe2\x80\x94 IMPERIAL WAR GRAVES (FRANCE AND BELGIUM)'
+p119
+aS'Oral Answers to Questions \xe2\x80\x94 BICYCLES (LOSSES AND THEFTS)'
+p120
+aS'Oral Answers to Questions \xe2\x80\x94 TRAWLERS (FISH BASKETS)'
+p121
+aS'Orders of the Day \xe2\x80\x94 AFRICAN SOLDIERS (CORPORAL PUNISHMENT)'
+p122
+aS'ADJOURNMENT (CHRISTMAS)'
+p123
+aS'Oral Answers to Questions \xe2\x80\x94 MAGISTRATES (HOME OFFICE CIRCULARS)'
+p124
+aS'REQUISITIONED LAND AND WAR WORKS BILL'
+p125
+aS'Oral Answers to Questions \xe2\x80\x94 INDUSTRIAL RECONVERSION'
+p126
+aS'AUXILIARY TERRITORIAL SERVICE (OVERSEAS POSTING)'
+p127
+aS'FORESTRY POLICY (DEPART MENTAL RESPONSIBILITY)'
+p128
+aS'COAL (CHARGES) (AMENDMENT) (NO. 1) ORDER, 1945'
+p129
+aS'Oral Answers to Questions \xe2\x80\x94 REQUISITIONED PROPERTY (COMPULSORY PURCHASE)'
+p130
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES (CIVIL COURT SENTENCES, MALTA)'
+p131
+aS'Oral Answers to Questions \xe2\x80\x94 DOUBLE SUMMER-TIME'
+p132
+aS'Oral Answers to Questions \xe2\x80\x94 SEVERN BARRAGE SCHEME'
+p133
+aS'Oral Answers to Questions \xe2\x80\x94 U.N.R.R.A. (PERSONNEL, UNITED KINGDOM)'
+p134
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE VOTERS (POLITICAL INFORMATION)'
+p135
+aS'Oral Answers to Questions \xe2\x80\x94 AIR ACCIDENT, CORLEY, NUNEATON'
+p136
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIAL EMPIRE (TECHNICAL AND SCIENTIFIC FILMS)'
+p137
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS CHAMBER (DECORATION)'
+p138
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL SERVICE (W.L.A. CANDIDATES)'
+p139
+aS'Orders of the Day \xe2\x80\x94 OLD AGE PENSIONS'
+p140
+aS'Oral Answers to Questions \xe2\x80\x94 ROSYTH DOCKYARD'
+p141
+aS'Oral Answers to Questions \xe2\x80\x94 MAURITIUS'
+p142
+aS'Orders of the Day \xe2\x80\x94 JEWISH REFUGEES (S.S. "PATRIA")'
+p143
+aS'Oral Answers to Questions \xe2\x80\x94 WAR-TIME MILITARY OFFENCES (SENTENCES)'
+p144
+aS'Oral Answers to Questions \xe2\x80\x94 INDIA'
+p145
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL WAR EFFORT'
+p146
+aS'Oral Answers to Questions \xe2\x80\x94 S.E.A.C. (TOBACCO AND BEER SUPPLIES)'
+p147
+aS'Oral Answers to Questions \xe2\x80\x94 AFRICAN COLONIES'
+p148
+aS'Oral Answers to Questions \xe2\x80\x94 DEMOBILISATON (FIRE BRIGADE SERVICE)'
+p149
+aS'Orders of the Day \xe2\x80\x94 DEPARTMENT OF AGRICULTURE FOR SCOTLAND'
+p150
+aS'Oral Answers to Questions \xe2\x80\x94 DIRECTED MINE WORKERS (PRISON SENTENCES)'
+p151
+aS'Oral Answers to Questions \xe2\x80\x94 REMAND HOMES'
+p152
+aS'Oral Answers to Questions \xe2\x80\x94 MEMBERS OF PARLIAMENT (VISITS TO FRANCE)'
+p153
+aS'Oral Answers to Questions \xe2\x80\x94 "WATCH TOWER" PUBLICATIONS'
+p154
+aS'Oral Answers to Questions \xe2\x80\x94 TIMBER (POST-WAR IMPORTS)'
+p155
+aS'Oral Answers to Questions \xe2\x80\x94 TRADE AND COMMERCE'
+p156
+aS"Oral Answers to Questions \xe2\x80\x94 KING'S BADGE"
+p157
+aS'Orders of the Day \xe2\x80\x94 CIVIL ESTIMATES, SUPPLE MENTARY ESTIMATE, 1944'
+p158
+aS'Oral Answers to Questions \xe2\x80\x94 PEACE TERMS'
+p159
+aS'Orders of the Day \xe2\x80\x94 PURCHASE TAX (SUSPENSION OF REGISTRATION LIMIT)'
+p160
+aS'Oral Answers to Questions \xe2\x80\x94 APPROVED SOCIETIES'
+p161
+aS'Oral Answers to Questions \xe2\x80\x94 OLD AGE PENSIONS'
+p162
+aS'PRIVATE BILL PETITIONS'
+p163
+aS'CRIMEA CONFERENCE'
+p164
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED KINGDOM WAR EFFORT WHITE PAPER (TRANSLATIONS)'
+p165
+aS'Oral Answers to Questions \xe2\x80\x94 METROPOLITAN BOROUGHS (LOANS)'
+p166
+aS'Oral Answers to Questions \xe2\x80\x94 EUROPEAN RELIEF POLICY (CO-ORDINATION)'
+p167
+aS'Oral Answers to Questions \xe2\x80\x94 MINISTRY OF WORKS BUILDING (KITCHEN)'
+p168
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTRICITY INSTALLATION CHARGES (RURAL AREAS)'
+p169
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTORAL REGISTER'
+p170
+aS'Oral Answers to Questions \xe2\x80\x94 MEMBER OF PARLIAMENT (VISIT TO UNITED STATES)'
+p171
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN PRISONERS OF WAR (RATIONS)'
+p172
+aS'Oral Answers to Questions \xe2\x80\x94 BURMA (SERVICE PERSONNEL, PROPERTY LOSSES)'
+p173
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL DEFENCE DEFERRED PAY (OLD AGE PENSIONERS)'
+p174
+aS'Orders of the Day \xe2\x80\x94 BY-PASS ROAD, HEREFORD'
+p175
+aS'Orders of the Day \xe2\x80\x94 POLAND'
+p176
+aS'POLICE (ARBITRATION MACHINERY)'
+p177
+aS'Orders of the Day \xe2\x80\x94 VOTE OF CREDIT, 1945.'
+p178
+aS'Oral Answers to Questions \xe2\x80\x94 INTERNATIONAL COMMUNICATIONS'
+p179
+aS'Orders of the Day \xe2\x80\x94 NEW CLAUSE.\xe2\x80\x94(Relaxation when machine is at rest.)'
+p180
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTORAL REGISTRATION (BUSINESS PREMISES VOTE)'
+p181
+aS'Orders of the Day \xe2\x80\x94 MILITARY SERVICE (HIGHER AGE GROUPS)'
+p182
+aS'Oral Answers to Questions \xe2\x80\x94 BALTIC REPUBLICS (STATUS)'
+p183
+aS'Oral Answers to Questions \xe2\x80\x94 ATLANTIC CHARTER (ENEMY TERRITORIES)'
+p184
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED TERRITORIES (ELECTIONS)'
+p185
+aS'Oral Answers to Questions \xe2\x80\x94 RUSSIA (FOREIGN WAR CORRESPONDENTS)'
+p186
+aS'NEW CLAUSE.\xe2\x80\x94(Provisions as to certain officers of local education authorities.)'
+p187
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS (REBUILDING)'
+p188
+aS'NORTHERN IRELAND (MISCELLANEOUS PROVISIONS) BILL'
+p189
+aS'Oral Answers to Questions \xe2\x80\x94 WAR DESPATCHES'
+p190
+aS'Oral Answers to Questions \xe2\x80\x94 CRIMEA CONFERENCE'
+p191
+aS'CLAUSE 1.\xe2\x80\x94(The War Works Commission.)'
+p192
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL ELECTION (PUBLIC HOLIDAY)'
+p193
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH COMMONWEALTH AND EMPIRE (WAR EFFORT)'
+p194
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH SCIENTIFIC ACHIEVE MENTS (PUBLICITY)'
+p195
+aS'Oral Answers to Questions \xe2\x80\x94 METROPOLITAN BOROUGH COUNCILS (LOANS)'
+p196
+aS'Oral Answers to Questions \xe2\x80\x94 PALACE OF WESTMINSTER'
+p197
+aS'Oral Answers to Questions \xe2\x80\x94 TURKEY (NAME OF CAPITAL)'
+p198
+aS'Orders of the Day \xe2\x80\x94 FINANCE CORPORATIONS'
+p199
+aS'AIR ACCIDENTS'
+p200
+aS'Oral Answers to Questions \xe2\x80\x94 GREEK DETAINEES, AFRICA'
+p201
+aS'Oral Answers to Questions \xe2\x80\x94 N.A.A.F.I. CLUB (ITALY)'
+p202
+aS'BILL PRESENTED'
+p203
+aS'Oral Answers to Questions \xe2\x80\x94 DANZIG (GERMAN POPULATION)'
+p204
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL FIRE SERVICE'
+p205
+aS'FOOD SUPPLIES (POULTRY AND RABBITS)'
+p206
+aS'Oral Answers to Questions \xe2\x80\x94 RUMANIA'
+p207
+aS'Oral Answers to Questions \xe2\x80\x94 DR. NEGRIN (BROADCAST FACILITIES)'
+p208
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR, GERMANY'
+p209
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL SERVICE'
+p210
+aS'Orders of the Day \xe2\x80\x94 LOCAL AUTHORITIES LOANS BILL'
+p211
+aS'Orders of the Day \xe2\x80\x94 BRITISH SUBJECTS (BROADCASTS ON ENEMY WIRELESS)'
+p212
+aS'Oral Answers to Questions \xe2\x80\x94 EQUAL PAY (ROYAL COMMISSION)'
+p213
+aS'Oral Answers to Questions \xe2\x80\x94 GOVERNMENT DEPARTMENTS'
+p214
+aS'PRIVATE BUSINESS'
+p215
+aS'Oral Answers to Questions \xe2\x80\x94 BALTIC REPUBLICS (NATIONALS)'
+p216
+aS'Oral Answers to Questions \xe2\x80\x94 MAGISTRATES (CONFERENCES)'
+p217
+aS'Orders of the Day \xe2\x80\x94 NEW CLAUSE.\xe2\x80\x94(Definition of "local planning authority.")'
+p218
+aS'DEATHS OF MEMBERS'
+p219
+aS"Orders of the Day \xe2\x80\x94 POLICE (HIS MAJESTY'S INSPECTORS OF CONSTABULARY) BILL"
+p220
+aS'Orders of the Day \xe2\x80\x94 HOUSING'
+p221
+aS'Oral Answers to Questions \xe2\x80\x94 EX-WAR RESERVE POLICE, ARMED FORCES (RELEASE)'
+p222
+aS'CLAUSE 2.\xe2\x80\x94(Compensation of officers of a local authority on war service who are affected by change of functions.)'
+p223
+aS'Oral Answers to Questions \xe2\x80\x94 LOCAL GOVERNMENT, LONDON (INQUIRY)'
+p224
+aS'Orders of the Day \xe2\x80\x94 WATER BILL'
+p225
+aS'Oral Answers to Questions \xe2\x80\x94 HAIR COMBS (SHORTAGE)'
+p226
+aS'Orders of the Day \xe2\x80\x94 LICENSING PLANNING (TEMPORARY PROVISIONS) BILL'
+p227
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED TERRITORIES (TRANSPORT)'
+p228
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL AVIATION'
+p229
+aS'ALLIED PRISONERS OF WAR, FAR EAST (EXPOSURE TO BOMBING)'
+p230
+aS'Orders of the Day \xe2\x80\x94 MINISTRY OF CIVIL AVIATION'
+p231
+aS'Oral Answers to Questions \xe2\x80\x94 MENTAL INSTITUTIONS (STAFFS)'
+p232
+aS'Oral Answers to Questions \xe2\x80\x94 TRANSPORT PLANES (CONTINENTAL PASSENGER TRAFFIC)'
+p233
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED BURMA (RELIEF SUPPLIES)'
+p234
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED STATES (INTERNATIONAL TRADING ARRANGEMENTS)'
+p235
+aS'Orders of the Day \xe2\x80\x94 COLONIAL DEVELOPMENT AND WELFARE BILL'
+p236
+aS'UNITED KINGDOM AND ETHIOPIA (AGREEMENT)'
+p237
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (POST-WAR FRONTIERS)'
+p238
+aS'Oral Answers to Questions \xe2\x80\x94 CHANNEL ISLANDS (CONDITIONS)'
+p239
+aS'Oral Answers to Questions \xe2\x80\x94 CHANNEL ISLANDS (LETTERS AND PARCELS)'
+p240
+aS'SYRIA AND LEBANON (SITUATION)'
+p241
+aS'BRITISH PRISONERS OF WAR, GERMANY'
+p242
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 1.\xe2\x80\x94(Cesser of exemption, in case of pedal cycles, from obligation to carry rear lamps.)'
+p243
+aS'Orders of the Day \xe2\x80\x94 SECOND SCHEDULE.\xe2\x80\x94(Amendment of enactments.)'
+p244
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL INSURANCE SCHEME'
+p245
+aS'Oral Answers to Questions \xe2\x80\x94 RAILWAYS'
+p246
+aS'Oral Answers to Questions \xe2\x80\x94 HOLIDAYS WITH PAY'
+p247
+aS"SIR JAMES Gri\xc4\xa3\xc4\xa3'S STATEMENT"
+p248
+aS'Oral Answers to Questions \xe2\x80\x94 STATUTORY RULES AND ORDERS'
+p249
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSES (SALE PRICES)'
+p250
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH COMMONWEALTH (RACIAL DISCRIMINATION)'
+p251
+aS'BALLOT FOR NOTICES OF MOTION'
+p252
+aS'Oral Answers to Questions \xe2\x80\x94 CZECHOSLOVAKIA (TRANSFER OF GERMANS)'
+p253
+aS'Oral Answers to Questions \xe2\x80\x94 ALLIED NATIONALS, GERMANY (REPATRIATION)'
+p254
+aS'MINISTRY OF CIVIL AVIATION BILL'
+p255
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIAL SERVICE (ADMINISTRATIVE APPOINTMENTS)'
+p256
+aS'SERVICES PERSONNEL (POLITICAL RIGHTS)'
+p257
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCO-SOVIET TREATY'
+p258
+aS'Oral Answers to Questions \xe2\x80\x94 CZECHOSLOVAK GOVERNMENT (BRITISH FINANCIAL ASSISTANCE)'
+p259
+aS'HOUSING (SCOTLAND)'
+p260
+aS'Oral Answers to Questions \xe2\x80\x94 WEST INDIES (IMPORTED FOOD, TAXES)'
+p261
+aS'Oral Answers to Questions \xe2\x80\x94 FAMILY ALLOWANCES'
+p262
+aS'Orders of the Day \xe2\x80\x94 VOTE, OF CREDIT, 1945'
+p263
+aS'Oral Answers to Questions \xe2\x80\x94 AGRICULTURE'
+p264
+aS'Oral Answers to Questions \xe2\x80\x94 REPATRIATED PRISONERS OF WAR (TUBERCULOSIS CASES)'
+p265
+aS'Oral Answers to Questions \xe2\x80\x94 BRIGGS MOTOR BODIES LTD. (GOVERNMENT FACTORY)'
+p266
+aS'Oral Answers to Questions \xe2\x80\x94 NORWEGIANS (BRITISH CITIZENSHIP)'
+p267
+aS'CONTROL COMMISSION, GERMANY (TECHNICAL STAFF)'
+p268
+aS'Oral Answers to Questions \xe2\x80\x94 TANGIER AND SPANISH MOROCCO (GERMAN AGENTS)'
+p269
+aS'Oral Answers to Questions \xe2\x80\x94 POST OFFICE'
+p270
+aS'LIBERATED COUNTRIES (SUPPLIES)'
+p271
+aS'Oral Answers to Questions \xe2\x80\x94 EX-SERVICE PERSONNEL (WAR GRATUITIES)'
+p272
+aS'Oral Answers to Questions \xe2\x80\x94 MALAYA (JAPANESE LANGUAGE)'
+p273
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED NATIONS WAR CRIMES COMMISSION'
+p274
+aS'Orders of the Day \xe2\x80\x94 MINISTRY OF NATIONAL INSURANCE (OFFICE, NEWCASTLE-ON-TYNE)'
+p275
+aS'WAR-TIME NURSERIES'
+p276
+aS'Oral Answers to Questions \xe2\x80\x94 UNFENCED BOMB CRATERS (COMPENSATION CLAIMS)'
+p277
+aS'Oral Answers to Questions \xe2\x80\x94 CHINESE STUDENTS, UNITED KINGDOM'
+p278
+aS'Oral Answers to Questions \xe2\x80\x94 WOOD FUEL SUPPLY, ANGUS'
+p279
+aS'Oral Answers to Questions \xe2\x80\x94 POKER PLAYING (CLUBS)'
+p280
+aS'Oral Answers to Questions \xe2\x80\x94 BURMA (GOVERNMENT POLICY)'
+p281
+aS'Oral Answers to Questions \xe2\x80\x94 HANSARD, HOUSE OF COMMONS (BOUND VOLUMES)'
+p282
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH FORCES, INDIA (PAMPHLETS)'
+p283
+aS'Oral Answers to Questions \xe2\x80\x94 SIR WALTER CITRINE (VISIT TO GREECE)'
+p284
+aS'Oral Answers to Questions \xe2\x80\x94 FURTHER EDUCATION AND TRAINING SCHEME (LEAFLET)'
+p285
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE CADETS'
+p286
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH WORKS OF ART (FRANCE)'
+p287
+aS'Oral Answers to Questions \xe2\x80\x94 POLISH GOVERNMENT, LONDON (RECOGNITION)'
+p288
+aS"Oral Answers to Questions \xe2\x80\x94 STATUTORY RULES AND ORDERS (SELECT COMMITTEE'S REPORT)"
+p289
+aS'Oral Answers to Questions \xe2\x80\x94 REQUISITIONED HOUSES (RENTS)'
+p290
+aS'Oral Answers to Questions \xe2\x80\x94 COAL INDUSTRY'
+p291
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (DEFENCE MEASURES, 1939)'
+p292
+aS'Oral Answers to Questions \xe2\x80\x94 GREEK EXTERNAL DEBT (INTEREST)'
+p293
+aS'RUSSIA (GERMAN LABOUR)'
+p294
+aS'Oral Answers to Questions \xe2\x80\x94 GOVERNMENT DEPARTMENTS (PRESS INTERVIEWS)'
+p295
+aS'Oral Answers to Questions \xe2\x80\x94 REMAND HOMES (ACCOMMODATION)'
+p296
+aS'Oral Answers to Questions \xe2\x80\x94 SPAIN'
+p297
+aS'CLAUSE 8.\xe2\x80\x94(Interpretation.)'
+p298
+aS'Oral Answers to Questions \xe2\x80\x94 CROSS-CHANNEL PASSENGER TRAFFIC'
+p299
+aS'Oral Answers to Questions \xe2\x80\x94 EDUCATION'
+p300
+aS'Oral Answers to Questions \xe2\x80\x94 SCOTLAND'
+p301
+aS'Oral Answers to Questions \xe2\x80\x94 DOUBLE SUMMER TIME'
+p302
+aS'BUSINESS OF THE HOUSE AND HOURS OF SITTING'
+p303
+aS'Oral Answers to Questions \xe2\x80\x94 MARINO VICETTI (NEWSPAPER REPORT)'
+p304
+aS'Oral Answers to Questions \xe2\x80\x94 DOMINIONS (POST-WAR MIGRATION)'
+p305
+aS'GREECE (DISTURBANCES, ATHENS)'
+p306
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL SERVICE (MARRIED WOMEN)'
+p307
+aS'Oral Answers to Questions \xe2\x80\x94 INTERRUPTED APPRENTICESHIPS SCHEME'
+p308
+aS'Orders of the Day \xe2\x80\x94 HYDRO-ELECTRIC UNDERTAKINGS (VALUATION FOR RATING) (SCOTLAND) BILL'
+p309
+aS'Oral Answers to Questions \xe2\x80\x94 SEYCHELLES (CONDITIONS)'
+p310
+aS'Oral Answers to Questions \xe2\x80\x94 DOMESTIC SERVICE (HOLIDAY RESORTS)'
+p311
+aS'Oral Answers to Questions \xe2\x80\x94 POLISH OFFICERS, ITALY (PROPAGANDA)'
+p312
+aS'BOMB DAMAGE REPAIRS (LONDON REGION)'
+p313
+aS'PASSENGER TRANSPORT VEHICLES (CONSTRUCTION ORDER)'
+p314
+aS'Oral Answers to Questions \xe2\x80\x94 NEWFOUNDLAND'
+p315
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 4.\xe2\x80\x94(General duties of licensing planning committees.)'
+p316
+aS'Oral Answers to Questions \xe2\x80\x94 LANDSCAPE ARCHITECTURE.'
+p317
+aS'Orders of the Day \xe2\x80\x94 LEND-LEASE CONTROL (RELAXATION)'
+p318
+aS'Oral Answers to Questions \xe2\x80\x94 POLICE SERVICE'
+p319
+aS'Oral Answers to Questions \xe2\x80\x94 MEDICAL SCHOOLS (WOMEN STUDENTS)'
+p320
+aS'Oral Answers to Questions \xe2\x80\x94 DEMOBILISATION (OVERSEAS SERVICE)'
+p321
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL ELECTION (PAPER SUPPLIES)'
+p322
+aS'Oral Answers to Questions \xe2\x80\x94 BUILDING PERMITS'
+p323
+aS'Oral Answers to Questions \xe2\x80\x94 RUMANIA (GENERAL RADESCU)'
+p324
+aS'Oral Answers to Questions \xe2\x80\x94 JAMAICA (MEDICAL SERVICE)'
+p325
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED ITALY (FOOD SUPPLIES)'
+p326
+aS'TRANSPORT COMMAND (SAFETY OF PASSENGERS)'
+p327
+aS'MISSING AIRCRAFT (AIR MINISTRY PASSENGERS)'
+p328
+aS'Oral Answers to Questions \xe2\x80\x94 BULGARIA (BRITISH MILITARY MISSION)'
+p329
+aS'Oral Answers to Questions \xe2\x80\x94 AGRICULTURAL WAGES SYSTEM (GARDENERS)'
+p330
+aS'Oral Answers to Questions \xe2\x80\x94 GERMANY'
+p331
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH STEAMER, TANGIER (SPANISH ACTION)'
+p332
+aS'Oral Answers to Questions \xe2\x80\x94 ALIEN (DETENTION)'
+p333
+aS'Oral Answers to Questions \xe2\x80\x94 TOWN AND COUNTRY PLANNING'
+p334
+aS'Oral Answers to Questions \xe2\x80\x94 CHALFONT PARK (PROPOSED INDUSTRIAL DEVELOPMENT)'
+p335
+aS'Oral Answers to Questions \xe2\x80\x94 INDIAN STATES (CHAMBER OF PRINCES)'
+p336
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS CHAMBER (ACOUSTICS)'
+p337
+aS'Oral Answers to Questions \xe2\x80\x94 ITALY (AFRICAN POSSESSIONS)'
+p338
+aS'Oral Answers to Questions \xe2\x80\x94 ITALY (ARMISTICE TERMS)'
+p339
+aS'Oral Answers to Questions \xe2\x80\x94 WAR CHARITIES (REGISTRATION)'
+p340
+aS'Oral Answers to Questions \xe2\x80\x94 FUEL RESEARCH'
+p341
+aS'Oral Answers to Questions \xe2\x80\x94 MAURITIUS (MALARIA CONTROL)'
+p342
+aS'Oral Answers to Questions \xe2\x80\x94 NURSING SISTERS (OVERSEAS SERVICE)'
+p343
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS SITTINGS (NIGHT TRANSPORT FACILITIES)'
+p344
+aS'Oral Answers to Questions \xe2\x80\x94 WAR GRAVES (MAINTENANCE)'
+p345
+aS'Oral Answers to Questions \xe2\x80\x94 AWARDS FOR GALLANTRY (DELAYS)'
+p346
+aS'Oral Answers to Questions \xe2\x80\x94 ANGLO-FRENCH CONVERSATIONS (FINANCE)'
+p347
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE PERSONNEL (POLITICAL MEETINGS)'
+p348
+aS'Oral Answers to Questions \xe2\x80\x94 MINISTRY OF SUPPLY'
+p349
+aS'Oral Answers to Questions \xe2\x80\x94 TANGIER (SITUATION)'
+p350
+aS'Oral Answers to Questions \xe2\x80\x94 RAILWAY THEFTS'
+p351
+aS'Oral Answers to Questions \xe2\x80\x94 STRIKE, LONDON DOCKS'
+p352
+aS'Oral Answers to Questions \xe2\x80\x94 MINISTERIAL OFFICES (DUTIES)'
+p353
+aS'Oral Answers to Questions \xe2\x80\x94 RELEASE AND RESETTLEMENT'
+p354
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL ELECTION'
+p355
+aS'HANSARD, HOUSE OF COMMONS (BOUND VOLUMES)'
+p356
+aS'Orders of the Day \xe2\x80\x94 COMPENSATION OF DISPLACED OFFICERS (WAR SERVICE) BILL'
+p357
+aS'Oral Answers to Questions \xe2\x80\x94 KENYA'
+p358
+aS'Oral Answers to Questions \xe2\x80\x94 HUNGARY (PROVISIONAL GOVERNMENT)'
+p359
+aS'HANSARD (BOUND VOLUMES)'
+p360
+aS'Oral Answers to Questions \xe2\x80\x94 MILITARY SERVICE (POSTPONED RELEASE)'
+p361
+aS'Oral Answers to Questions \xe2\x80\x94 U.S.A. COURT MARTIAL (SENTENCE)'
+p362
+aS'Oral Answers to Questions \xe2\x80\x94 BORSTAL INSTITUTION, FELTHAM (DISCIPLINE)'
+p363
+aS'Oral Answers to Questions \xe2\x80\x94 ROAD TRANSPORT'
+p364
+aS'Oral Answers to Questions \xe2\x80\x94 CYPRIOTS AND MALTESE (DEMOBILISATION)'
+p365
+aS'Oral Answers to Questions \xe2\x80\x94 GOVERNMENT PUBLICATIONS (SALES, GLASGOW)'
+p366
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES (COMPASSIONATE RELEASES)'
+p367
+aS'GENERAL ELECTION (SERVICE UNIFORMS)'
+p368
+aS'Oral Answers to Questions \xe2\x80\x94 PEACE TREATIES (INDUSTRIAL CONDITIONS)'
+p369
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED STATES LORRY ACCIDENT (INQUIRY)'
+p370
+aS'Oral Answers to Questions \xe2\x80\x94 ALLIED WAR EFFORT (MAN-POWER)'
+p371
+aS'Orders of the Day \xe2\x80\x94 MISSING SOLDIERS (INQUIRY PROCEDURE)'
+p372
+aS'Oral Answers to Questions \xe2\x80\x94 WAR-TIME NURSERIES (PENYBONT)'
+p373
+aS'Oral Answers to Questions \xe2\x80\x94 RESETTLEMENT (TRAINING ALLOWANCES)'
+p374
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE'
+p375
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICEMEN ON LEAVE (PETROL ALLOWANCE)'
+p376
+aS'Oral Answers to Questions \xe2\x80\x94 UNIVERSITY GRANTS (GOVERNMENT PROPOSALS)'
+p377
+aS'Oral Answers to Questions \xe2\x80\x94 GREAT BRITAIN AND SWEDEN (MONETARY AGREEMENT)'
+p378
+aS'Orders of the Day \xe2\x80\x94 ROYAL NAVY (POST-WAR RESPONSIBILITIES)'
+p379
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIAL EMPIRE (ROADS AND COMMUNICATIONS)'
+p380
+aS'Orders of the Day \xe2\x80\x94 ACQUISITION OF LAND'
+p381
+aS'LIMITATION (ENEMIES AND WAR PRISONERS) BILL [Lords]'
+p382
+aS"Oral Answers to Questions \xe2\x80\x94 CHILDREN'S HOMES (COMMITTEES OF INQUIRY)"
+p383
+aS'REPAIR OF BOMB-DAMAGED HOUSES'
+p384
+aS'DEVELOPMENT OF BEE KEEPING'
+p385
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH WAR MEDAL'
+p386
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH OFFICERS, INDIAN ARMY (PAY)'
+p387
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN LONG-RANGE WEAPONS'
+p388
+aS"Oral Answers to Questions \xe2\x80\x94 GENERAL FRANCO (PRIME MINISTER'S LETTER)"
+p389
+aS'Orders of the Day \xe2\x80\x94 FORTH ROAD BRIDGE'
+p390
+aS'MEMBERS SWORN'
+p391
+aS'Oral Answers to Questions \xe2\x80\x94 ALUMINIUM (PRODUCTION COST)'
+p392
+aS'Oral Answers to Questions \xe2\x80\x94 PETROL'
+p393
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED TERRITORIES (SUPPLIES)'
+p394
+aS'Orders of the Day \xe2\x80\x94 FIRST SCHEDULE.\xe2\x80\x94(Service before 1st April, 1945, which may be treated as if it were Contributory or Recognised Service.)'
+p395
+aS'Oral Answers to Questions \xe2\x80\x94 STAGE PLAYS (CENSORSHIP)'
+p396
+aS'Oral Answers to Questions \xe2\x80\x94 ILL-TREATMENT OF CHILDREN (CONVICTED PARENTS)'
+p397
+aS'Oral Answers to Questions \xe2\x80\x94 QUESTIONS TO MINISTERS'
+p398
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED COUNTRIES (ELECTIONS)'
+p399
+aS'Oral Answers to Questions \xe2\x80\x94 RUSSIAN - OCCUPIED COUNTRIES (BRITISH PRESS REPRESENTATIVES)'
+p400
+aS'Oral Answers to Questions \xe2\x80\x94 INDUSTRIAL PRODUCTION (STATISTICS)'
+p401
+aS'Oral Answers to Questions \xe2\x80\x94 SEVERN BARRAGE'
+p402
+aS'SERVICE PERSONNEL, FAR EAST (PAMPHLETS)'
+p403
+aS'Oral Answers to Questions \xe2\x80\x94 U.N.R.R.A.'
+p404
+aS'Orders of the Day \xe2\x80\x94 TOWN AND COUNTRY PLANNING (SCOTLAND) BILL'
+p405
+aS'Oral Answers to Questions \xe2\x80\x94 LOCAL AUTHORITY MEMBERS (RELEASE FROM FORCES)'
+p406
+aS"Oral Answers to Questions \xe2\x80\x94 CHILDREN'S ALLOWANCES (INCOME TAX)"
+p407
+aS"Oral Answers to Questions \xe2\x80\x94 FRENCH NATIONALS' ASSETS (INFORMATION)"
+p408
+aS'Oral Answers to Questions \xe2\x80\x94 EAST PRUSSIA (KONIGSBERG)'
+p409
+aS'Oral Answers to Questions \xe2\x80\x94 TANGANYIKA (NON-NATIVE SETTLEMENT.'
+p410
+aS'PENICILLIN (MANUFACTURE)'
+p411
+aS'Oral Answers to Questions \xe2\x80\x94 PENSIONS AND GRANTS'
+p412
+aS'Oral Answers to Questions \xe2\x80\x94 EXPLOSION, R.A.F. DEPOT, BURTON-ON-TRENT'
+p413
+aS'Orders of the Day \xe2\x80\x94 LOCAL GOVERNMENT (BOUNDARY COMMISSION) BILL'
+p414
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH WIVES OF ALIENS (NATIONALITY)'
+p415
+aS'Oral Answers to Questions \xe2\x80\x94 U.N.R.R.A. SUPPLIES, FRANCE'
+p416
+aS'Oral Answers to Questions \xe2\x80\x94 PETROL ALLOWANCES'
+p417
+aS'Oral Answers to Questions \xe2\x80\x94 RAILWAY LOCOMOTIVES (MAINTENANCE)'
+p418
+aS'Oral Answers to Questions \xe2\x80\x94 DEMOBILISATION (REINSTATEMENT AND RESETTLEMENT)'
+p419
+aS'Oral Answers to Questions \xe2\x80\x94 LONDON-SOUTHEND TRAIN SERVICES'
+p420
+aS'Oral Answers to Questions \xe2\x80\x94 INDUSTRIAL MAN-POWER'
+p421
+aS'Oral Answers to Questions \xe2\x80\x94 TELEVISION COMMITTEE (REPORT)'
+p422
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH COUNCIL (SUBSIDISED JOURNALS)'
+p423
+aS'Orders of the Day \xe2\x80\x94 DISTRIBUTION OF INDUSTRY BILL'
+p424
+aS'Oral Answers to Questions \xe2\x80\x94 ARTIFICAL LIMBS (FITTING CENTRE)'
+p425
+aS'Orders of the Day \xe2\x80\x94 POSTPONEMENT OF POLLING DAY BILL'
+p426
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES (OVERSEAS SERVICE)'
+p427
+aS'Oral Answers to Questions \xe2\x80\x94 GREAT BRITAIN AND UNITED STATES (MUTUAL AID)'
+p428
+aS'Orders of the Day \xe2\x80\x94 MINISTRY OF FUEL AND POWER BILL'
+p429
+aS'EARL LLOYD-GEORGE OF DWYFOR, O.M.'
+p430
+aS'Oral Answers to Questions \xe2\x80\x94 STATELESS PERSONS (DEPORTATION ORDERS)'
+p431
+aS'Oral Answers to Questions \xe2\x80\x94 L.C.C. REMAND HOMES (CONSULTATION)'
+p432
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL PARKS'
+p433
+aS'Orders of the Day \xe2\x80\x94 BISCUITS (CHARGES) ORDER, 1944'
+p434
+aS'Oral Answers to Questions \xe2\x80\x94 SOCIAL SERVICES'
+p435
+aS'Oral Answers to Questions \xe2\x80\x94 EVACUATED CHILDREN, WALLASEY (TREATMENT)'
+p436
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH WEAPONS (NEW INVENTIONS)'
+p437
+aS'Oral Answers to Questions \xe2\x80\x94 CHANNEL ISLANDS (RELIEF SUPPLIES)'
+p438
+aS"Oral Answers to Questions \xe2\x80\x94 BRITISH SUBJECT'S PROPERTY, SICILY (TAXATION)"
+p439
+aS'Oral Answers to Questions \xe2\x80\x94 BUILDING INDUSTRY (RESEARCH)'
+p440
+aS"TEACHERS' SALARIES"
+p441
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL AVIATION (QUESTIONS TO MINISTERS)'
+p442
+aS'Oral Answers to Questions \xe2\x80\x94 UNDERGROUND RAILWAYS, LONDON (WORK STOPPAGE)'
+p443
+aS'Oral Answers to Questions \xe2\x80\x94 WAR SERVICE GRANTS'
+p444
+aS'CLAUSE 5.\xe2\x80\x94(Power by Order in Council to provide for the compensation of officers of public authorities and public utility undertakers on war service.)'
+p445
+aS'Oral Answers to Questions \xe2\x80\x94 BRETTON WOODS CONFERENCE PROPOSALS (CONSULTATIONS)'
+p446
+aS'Oral Answers to Questions \xe2\x80\x94 ITALIAN PRISONERS OF WAR (ESCAPE)'
+p447
+aS'Oral Answers to Questions \xe2\x80\x94 COUNT GRANDI'
+p448
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL SERVICE HEAD'
+p449
+aS'Oral Answers to Questions \xe2\x80\x94 DIRECTED WORKERS'
+p450
+aS'CHAIRMAN OF WAYS AND MEANS AND DEPUTY-CHAIRMAN'
+p451
+aS'Oral Answers to Questions \xe2\x80\x94 SYRIA AND LEBANON (ARMED FORCES)'
+p452
+aS'Orders of the Day \xe2\x80\x94 CLASS X'
+p453
+aS'Oral Answers to Questions \xe2\x80\x94 ORGANISED PARTIES (TRAVEL PERMITS)'
+p454
+aS'Oral Answers to Questions \xe2\x80\x94 EIRE (GERMAN AND JAPANESE NATIONALS)'
+p455
+aS'Oral Answers to Questions \xe2\x80\x94 GREECE'
+p456
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES, INDIA AND BURMA (WELFARE)'
+p457
+aS'Orders of the Day \xe2\x80\x94 CLASS I'
+p458
+aS'GENERAL EISENHOWER (VISIT TO LONDON)'
+p459
+aS'Oral Answers to Questions \xe2\x80\x94 GIFTS FROM MIDDLE EAST (PURCHASE TAX)'
+p460
+aS'Oral Answers to Questions \xe2\x80\x94 FISH SUPPLIES (DOCK LABOUR)'
+p461
+aS'Oral Answers to Questions \xe2\x80\x94 GREECE (GERMANS AND BULGARIANS)'
+p462
+aS'Orders of the Day \xe2\x80\x94 AIR TRAINING CORPS'
+p463
+aS'Oral Answers to Questions \xe2\x80\x94 DOUBLE SUMMER TIME (GOVERN MENT DECISION)'
+p464
+aS'Orders of the Day \xe2\x80\x94 COUNTY WAR AGRICULTURAL EXECUTIVE COMMITTEES'
+p465
+aS'Oral Answers to Questions \xe2\x80\x94 POST-WAR REBUILDING (LABOUR AND MATERIALS)'
+p466
+aS"BATTLE-TRAINING ACCIDENT (SOLDIER'S INJURY)"
+p467
+aS'Oral Answers to Questions \xe2\x80\x94 END-OF-WAR HOLIDAY'
+p468
+aS'MEMBERS OF PARLIAMENT (OVERSEAS TRAVEL)'
+p469
+aS'Oral Answers to Questions \xe2\x80\x94 HOTEL AND TOURIST INDUSTRY (MINISTERIAL RESPONSIBILITY)'
+p470
+aS'Oral Answers to Questions \xe2\x80\x94 MINES DEPARTMENT (STAFF)'
+p471
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIES (DOUBLE TAXATION)'
+p472
+aS'Orders of the Day \xe2\x80\x94 KITCHEN AND REFRESHMENT ROOMS (HOUSE OF COMMONS)'
+p473
+aS'Oral Answers to Questions \xe2\x80\x94 POLITICAL PARTY AGENTS (RELEASE FROM FORCES)'
+p474
+aS'Oral Answers to Questions \xe2\x80\x94 PALESTINE (DEVELOPMENT PROPOSALS)'
+p475
+aS'SUPPLEMENTARY VOTE OF CREDIT, 1945'
+p476
+aS'Oral Answers to Questions \xe2\x80\x94 RELEASED BRITISH SUBJECTS (INFORMATION)'
+p477
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 13.\xe2\x80\x94(Interpretation.)'
+p478
+aS'Oral Answers to Questions \xe2\x80\x94 ROYAL ARMS (WELSH EMBLEMS)'
+p479
+aS'Orders of the Day \xe2\x80\x94 NAVY ESTIMATES, 1945'
+p480
+aS'Oral Answers to Questions \xe2\x80\x94 MILITARY OPERATIONS, WESTERN FRONT (COMMAND)'
+p481
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN PRISONERS OF WAR'
+p482
+aS'Oral Answers to Questions \xe2\x80\x94 YUGOSLAVIA (SITUATION)'
+p483
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN WARFARE (INDISCRIMINATE BOMBING)'
+p484
+aS'Oral Answers to Questions \xe2\x80\x94 AIRCRAFT PRODUCTION'
+p485
+aS'DEBATE ON THE ADDRESS'
+p486
+aS"WOMEN'S LAND ARMY"
+p487
+aS"COAL INDUSTRY (AMERICAN MISSION'S REPORT)"
+p488
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH HEAVY TANKS (MANUFACTURE)'
+p489
+aS'Oral Answers to Questions \xe2\x80\x94 INTERNATIONAL TREATIES (REVIEW)'
+p490
+aS'Oral Answers to Questions \xe2\x80\x94 POLAND'
+p491
+aS"Oral Answers to Questions \xe2\x80\x94 CHILDREN'S HOMES"
+p492
+aS"Orders of the Day \xe2\x80\x94 INDIA (GOVERNORS' ALLOWANCES AND PRIVILEGES)"
+p493
+aS'MINISTRY OF NATIONAL INSUR ANCE (OFFICE, NEWCASTLE- ON-TYNE)'
+p494
+aS'Oral Answers to Questions \xe2\x80\x94 SCOTTISH SPECIAL HOUSING COMMITTEE (RENTS, AIRDRIE)'
+p495
+aS'Orders of the Day \xe2\x80\x94 BUILDING INDUSTRY (RELEASES FROM FORCES)'
+p496
+aS'Oral Answers to Questions \xe2\x80\x94 IRREGULARITIES IN ADMINISTRATION OF AIR MINISTRY'
+p497
+aS'CLAUSE 3.\xe2\x80\x94(Dissolution of Commission.)'
+p498
+aS'Oral Answers to Questions \xe2\x80\x94 ADEN (SOCIAL AND ECONOMIC PROGRAMME)'
+p499
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH ARMY'
+p500
+aS'Oral Answers to Questions \xe2\x80\x94 WARTIME MINISTRIES (CONTINUANCE)'
+p501
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (RATE OF EXCHANGE)'
+p502
+aS"Oral Answers to Questions \xe2\x80\x94 EVACUEE CHILD'S DEATH, WALLASEY (MEDICAL EVIDENCE)"
+p503
+aS'Oral Answers to Questions \xe2\x80\x94 NEWFOUNDLAND (FOOD SUPPLIES)'
+p504
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 2.\xe2\x80\x94(Superannuation of certain persons serving in the educational service otherwise than as teachers.)'
+p505
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED COUNTRIES (U.N.R.R.A.)'
+p506
+aS'Oral Answers to Questions \xe2\x80\x94 AFFORESTATION'
+p507
+aS'Oral Answers to Questions \xe2\x80\x94 MINISTRY OF NATIONAL INSURANCE (STAFF TRANSFER)'
+p508
+aS'Oral Answers to Questions \xe2\x80\x94 MONOPOLIES (WHITE PAPER)'
+p509
+aS'Orders of the Day \xe2\x80\x94 PARLIAMENTARY ELECTIONS'
+p510
+aS'PRIVILEGE (LETTER TO MEMBER)'
+p511
+aS'Oral Answers to Questions \xe2\x80\x94 FINANCE CORPORATIONS'
+p512
+aS'INCOME TAX BILL'
+p513
+aS'DEMOBILISATION AND RE-EMPLOYMENT'
+p514
+aS'Oral Answers to Questions \xe2\x80\x94 GREECE (RELIEF SUPPLIES)'
+p515
+aS'Orders of the Day \xe2\x80\x94 CINEMATOGRAPH FILMS'
+p516
+aS'Orders of the Day \xe2\x80\x94 FIFTH SCHEDULE.\xe2\x80\x94(Enactments repealed.)'
+p517
+aS'Oral Answers to Questions \xe2\x80\x94 GREECE (SITUATION)'
+p518
+aS'Oral Answers to Questions \xe2\x80\x94 COUNT SFORZA (ITALIAN MONARCHY)'
+p519
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR, FAR EAST'
+p520
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL FINANCE'
+p521
+aS'Oral Answers to Questions \xe2\x80\x94 FINLAND (BRITISH NEWSPAPER CORRESPONDENTS)'
+p522
+aS'GREAT BRITAIN AND UNITED STATES (FUTURE LEND-LEASE ARRANGEMENTS).'
+p523
+aS'Oral Answers to Questions \xe2\x80\x94 FORESTRY COMMISSION (TRADE PRICES)'
+p524
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH ARMY (DISBANDED UNIT)'
+p525
+aS'Oral Answers to Questions \xe2\x80\x94 GERMANY (ALLIED BOMBING POLICY)'
+p526
+aS'Orders of the Day \xe2\x80\x94 BRITISH OVERSEAS AIRWAYS CORPORATION (ACCOUNTS)'
+p527
+aS'Oral Answers to Questions \xe2\x80\x94 B.O.A.C. (DIRECTOR-GENERAL)'
+p528
+aS'Oral Answers to Questions \xe2\x80\x94 ANGLO-RUSSIAN TREATY'
+p529
+aS'Orders of the Day \xe2\x80\x94 FAMILY ALLOWANCES BILL'
+p530
+aS'Oral Answers to Questions \xe2\x80\x94 ROYAL AIR FORGE'
+p531
+aS'DEATH OF A MEMBER'
+p532
+aS'Orders of the Day \xe2\x80\x94 CLASS VI BOARD OF TRADE'
+p533
+aS'Orders of the Day \xe2\x80\x94 INDIA (CIVIL SERVICE, ETC.)'
+p534
+aS'Orders of the Day \xe2\x80\x94 LIMITATION (ENEMIES AND WAR PRISONERS) BILL [Lords]'
+p535
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 2.\xe2\x80\x94(Licensing planning committees.)'
+p536
+aS'Oral Answers to Questions \xe2\x80\x94 EIRE (UNITED KINGDOM REPRESENTATIVE)'
+p537
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL INSURANCE'
+p538
+aS'Oral Answers to Questions \xe2\x80\x94 SHIPS (SALT-WATER DISTILLATION)'
+p539
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED COUNTRIES (FIGHTING FORCES)'
+p540
+aS'Oral Answers to Questions \xe2\x80\x94 CHANNEL ISLANDS (SUPPLIES)'
+p541
+aS'Oral Answers to Questions \xe2\x80\x94 MAURITIUS (LABOUR ORGANISATION)'
+p542
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL, AVIATION'
+p543
+aS'Preamble'
+p544
+aS'HOUSING'
+p545
+aS'Oral Answers to Questions \xe2\x80\x94 NIGERIA (CONSTITUTION)'
+p546
+aS'Orders of the Day \xe2\x80\x94 FINANCE (No. 2) BILL'
+p547
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSES, SELLING PRICE (COMMITTEE OF INQUIRY)'
+p548
+aS'Oral Answers to Questions \xe2\x80\x94 OPERATIONS, FAR EAST (CASUALTIES)'
+p549
+aS'Oral Answers to Questions \xe2\x80\x94 BELGIUM (POLITICAL SITUATION)'
+p550
+aS'DEATH OF PRESIDENT ROOSEVELT'
+p551
+aS'Oral Answers to Questions \xe2\x80\x94 HOSPITALS (STAFFS)'
+p552
+aS'CLASS I'
+p553
+aS'Oral Answers to Questions \xe2\x80\x94 YUGOSLAV CAMP, LEIGH-ON-SEA (INCIDENT)'
+p554
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES VOTING (CONFERENCE)'
+p555
+aS'Oral Answers to Questions \xe2\x80\x94 RESEARCH BODIES (REPORTS)'
+p556
+aS'ARMED FORCES, FAR EAST (WELFARE)'
+p557
+aS'Oral Answers to Questions \xe2\x80\x94 COLONIAL FORCES (WAR SERVICE INCREMENTS)'
+p558
+aS'Oral Answers to Questions \xe2\x80\x94 WAR GRATUITIES'
+p559
+aS'Orders of the Day \xe2\x80\x94 CRIMEA CONFERENCE'
+p560
+aS'Oral Answers to Questions \xe2\x80\x94 FIREARM LICENCES (CIVILIANS)'
+p561
+aS'Oral Answers to Questions \xe2\x80\x94 ANTI-SEMITIC PROPAGANDA (LEGAL ACTION)'
+p562
+aS'PROROGATION'
+p563
+aS'Oral Answers to Questions \xe2\x80\x94 COAL BY-PRODUCT INDUSTRIES'
+p564
+aS"Oral Answers to Questions \xe2\x80\x94 OLD FOLKS' CLUBS (FINANCIAL ASSISTANCE)"
+p565
+aS'Oral Answers to Questions \xe2\x80\x94 OPERATIONS, FAR EAST (BRITISH FORCES)'
+p566
+aS'Oral Answers to Questions \xe2\x80\x94 OPENCAST COAL PRODUCTION'
+p567
+aS'Oral Answers to Questions \xe2\x80\x94 CIVIL AVIATION (U.S.A.-EIRE AGREEMENT)'
+p568
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH GUIANA (FIRE, GEORGETOWN)'
+p569
+aS'Oral Answers to Questions \xe2\x80\x94 GERMANY (ALLIED CONTROL COMMISSION)'
+p570
+aS'Oral Answers to Questions \xe2\x80\x94 RUMANIA (ASSISTANCE TO ALLIES)'
+p571
+aS'Orders of the Day \xe2\x80\x94 FOOD SUPPLIES (SHORT WEIGHT)'
+p572
+aS'Oral Answers to Questions \xe2\x80\x94 STREET COLLECTION PERMITS'
+p573
+aS'Oral Answers to Questions \xe2\x80\x94 BIRTH REGISTRATION CERTIFICATES (FORM)'
+p574
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH RESTAURANTS (LOCAL RATES)'
+p575
+aS'Orders of the Day \xe2\x80\x94 CARTELS AND MONOPOLIES'
+p576
+aS'Oral Answers to Questions \xe2\x80\x94 WORLD SECURITY ORGANISATION (SECRETARIAT)'
+p577
+aS'Oral Answers to Questions \xe2\x80\x94 AFRICAN TERRITORIES (DEVELOPMENT)'
+p578
+aS'Oral Answers to Questions \xe2\x80\x94 WORLD SECURITY CONFERE (INSTRUCTIONS)'
+p579
+aS'Oral Answers to Questions \xe2\x80\x94 LIGHT ENGINEERING INDUSTRIES (CHANGE-OVER)'
+p580
+aS'Oral Answers to Questions \xe2\x80\x94 PARISHES (AMALGAMATION)'
+p581
+aS'Oral Answers to Questions \xe2\x80\x94 ANGLO-EGYPTIAN AGREEMENT (DISCUSSIONS)'
+p582
+aS"Oral Answers to Questions \xe2\x80\x94 DECEASED CADET'S EFFECTS (LOSS)"
+p583
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 12.\xe2\x80\x94(Interpretation.)'
+p584
+aS'Orders of the Day \xe2\x80\x94 NURSES BILL [Lords]'
+p585
+aS'Oral Answers to Questions \xe2\x80\x94 SUEZ CANAL COMPANY (SHARES)'
+p586
+aS'Oral Answers to Questions \xe2\x80\x94 FRIENDLY AND APPROVED SOCIETIES'
+p587
+aS'Oral Answers to Questions \xe2\x80\x94 MERCHANT NAVY (RELEASES)'
+p588
+aS'CLAUSE 2.\xe2\x80\x94(Procedure of Commission.)'
+p589
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE VOTERS (REGISTRATION)'
+p590
+aS'Oral Answers to Questions \xe2\x80\x94 POLICE (ARMED FORCES, RELEASE)'
+p591
+aS'Oral Answers to Questions \xe2\x80\x94 GREECE AND CRETE, LIBERATION (BRITISH EMPIRE CASUALTIES)'
+p592
+aS'Oral Answers to Questions \xe2\x80\x94 PARLIAMENTARY ELECTIONS (POLLING BOOTHS)'
+p593
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED STATES AIR TRANSPORT COMMAND (ACCIDENT)'
+p594
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS (REFRESHMENT ARRANGEMENTS)'
+p595
+aS'Oral Answers to Questions \xe2\x80\x94 BUILDING INDUSTRY'
+p596
+aS"Oral Answers to Questions \xe2\x80\x94 CHILDREN'S HOMES (ADVERTISING)"
+p597
+aS'Oral Answers to Questions \xe2\x80\x94 DEAF PERSONS (TREATMENT)'
+p598
+aS'BRITISH SCIENTISTS (VISIT TO RUSSIA)'
+p599
+aS'Orders of the Day \xe2\x80\x94 SECOND SCHEDULE.\xe2\x80\x94(Registration as local government elector.)'
+p600
+aS'Orders of the Day \xe2\x80\x94 PURCHASE TAX (CHARGES) (UTILITY MATTRESSES)'
+p601
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (CLOTHING PARCELS)'
+p602
+aS'Oral Answers to Questions \xe2\x80\x94 DETAINEES (ISLE OF MAN)'
+p603
+aS'Oral Answers to Questions \xe2\x80\x94 DOMESTIC COAL SUPPLIES'
+p604
+aS'Oral Answers to Questions \xe2\x80\x94 PEACE CELEBRATIONS'
+p605
+aS'Oral Answers to Questions \xe2\x80\x94 NEWFOUNDLAND (POLITICAL AND ECONOMIC FUTURE)'
+p606
+aS'Oral Answers to Questions \xe2\x80\x94 NORTH AFRICA (LIVING CONDITIONS)'
+p607
+aS'Oral Answers to Questions \xe2\x80\x94 NYASALAND (PROVINCIAL COUNCILS)'
+p608
+aS'Oral Answers to Questions \xe2\x80\x94 DEAF AID (SCIENTIFIC RESEARCH COMMITTEE)'
+p609
+aS'Oral Answers to Questions \xe2\x80\x94 HELIGOLAND'
+p610
+aS'Oral Answers to Questions \xe2\x80\x94 GERMANY (SURRENDER PROPOSALS)'
+p611
+aS'Oral Answers to Questions \xe2\x80\x94 PALESTINE (ARMS CONTROL)'
+p612
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH COUNCIL (INQUIRY)'
+p613
+aS'Oral Answers to Questions \xe2\x80\x94 PALESTINE (TERRORIST ACTIVITIES)'
+p614
+aS'LIBERATED TERRITORIES (SUPPLIES AND TRANSPORT)'
+p615
+aS'Oral Answers to Questions \xe2\x80\x94 MERCHANT NAVY'
+p616
+aS'Oral Answers to Questions \xe2\x80\x94 DOMINIONS SERVICES PERSONNEL (DIVORCE COSTS)'
+p617
+aS'PRAYERS'
+p618
+aS'LOCAL AUTHORITIES LOANS BILL'
+p619
+aS'Oral Answers to Questions \xe2\x80\x94 SOUTH COAST (CAMPING RESTRICTIONS)'
+p620
+aS'CIVIL DEFENCE SERVICES (GRATUITIES)'
+p621
+aS'BUSINESS OF THE HOUSE'
+p622
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN REPARATIONS (MILCH GOATS)'
+p623
+aS'Orders of the Day \xe2\x80\x94 CLAUSE 8.\xe2\x80\x94(Right of teachers engaged in war service to require repayment of contributions.)'
+p624
+aS'Orders of the Day \xe2\x80\x94 SUPPLY'
+p625
+aS'Orders of the Day \xe2\x80\x94 GOVERNMENT OF BURMA (TEMPORARY PROVISIONS) BILL'
+p626
+aS"Oral Answers to Questions \xe2\x80\x94 WOMEN'S LAND ARMY"
+p627
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN CRIMES (PUNISHMENT)'
+p628
+aS'Oral Answers to Questions \xe2\x80\x94 OLD AGE PENSIONERS'
+p629
+aS'Oral Answers to Questions \xe2\x80\x94 CANALS (POWER-DRIVEN BARGES)'
+p630
+aS'Oral Answers to Questions \xe2\x80\x94 RUSSIA AND POLAND'
+p631
+aS'Oral Answers to Questions \xe2\x80\x94 L.C.C. REMAND HOME (INQUIRY)'
+p632
+aS'NEW CLAUSE.\xe2\x80\x94(Duration.)'
+p633
+aS'Oral Answers to Questions \xe2\x80\x94 INSTITUTION, COCKERMOUTH (STAFF)'
+p634
+aS'Oral Answers to Questions \xe2\x80\x94 RUMANIA (BRITISH PROPERTY)'
+p635
+aS'Oral Answers to Questions \xe2\x80\x94 WAR CRIMINALS (HITLER AND MUSSOLINI)'
+p636
+aS'Orders of the Day \xe2\x80\x94 A.T.S. (OVERSEAS SERVICE)'
+p637
+aS'Oral Answers to Questions \xe2\x80\x94 CATERING WAGES COMMISSION (ASSESSORS)'
+p638
+aS'BRITISH ARMY (DISCHARGE PROCEDURE)'
+p639
+aS'Oral Answers to Questions \xe2\x80\x94 ENEMY PRISONERS OF WAR (PAY)'
+p640
+aS'Oral Answers to Questions \xe2\x80\x94 S.S. "ASHBURY" (DEPENDANTS PENSION CLAIMS)'
+p641
+aS'Oral Answers to Questions \xe2\x80\x94 AIRCRAFT WORKS, CLAYTON-LE-MOORS (BLACK-OUT)'
+p642
+aS'Oral Answers to Questions \xe2\x80\x94 FRANCE (CURRENCY)'
+p643
+aS'Oral Answers to Questions \xe2\x80\x94 HYDE PARK (RATS)'
+p644
+aS'Oral Answers to Questions \xe2\x80\x94 SAN FRANCISCO CONFERENCE (UNITED KINGDOM DELEGATION)'
+p645
+aS'Oral Answers to Questions \xe2\x80\x94 SYRIA AND LEBANON'
+p646
+aS'CLAUSE 4.\xe2\x80\x94(Land affected by Government war work or damaged by Government war use.)'
+p647
+aS'Oral Answers to Questions \xe2\x80\x94 RELEASED BRITISH PRISONERS OF WAR (REPATRIATION)'
+p648
+aS'Oral Answers to Questions \xe2\x80\x94 DIRECTED MINE-WORKERS (TRANSFER TO SERVICES)'
+p649
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED COUNTRIES (U.N.R.R.A. SUPPLIES)'
+p650
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN OFFICIAL, TURKEY (SURRENDER)'
+p651
+aS'Oral Answers to Questions \xe2\x80\x94 GIBRALTAR EVACUEES (NORTHERN IRELAND)'
+p652
+aS'Oral Answers to Questions \xe2\x80\x94 ROYAL AIR FORCE'
+p653
+aS'Orders of the Day \xe2\x80\x94 HOUSE OF COMMONS PRESTIGE (BELGIUM)'
+p654
+aS'Oral Answers to Questions \xe2\x80\x94 BOMBING TARGETS, GERMANY'
+p655
+aS'Oral Answers to Questions \xe2\x80\x94 ANTI-U-BOAT CAMPAIGN'
+p656
+aS'Oral Answers to Questions \xe2\x80\x94 WEST AFRICA (COCOA MARKETING)'
+p657
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES, BURMA (LEAVE)'
+p658
+aS'Oral Answers to Questions \xe2\x80\x94 ITALIAN CO-OPERATORS (SCARBOROUGH)'
+p659
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN CONCENTRATION CAMPS'
+p660
+aS'Orders of the Day \xe2\x80\x94 WOOD FUEL (COLLECTION)'
+p661
+aS'GENERAL ELECTION (POLLING DATE)'
+p662
+aS'Orders of the Day \xe2\x80\x94 RURAL HOUSING'
+p663
+aS'Oral Answers to Questions \xe2\x80\x94 NATIONAL FIRE SERVICE (BUILDING PROJECTS)'
+p664
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL ELECTION (SERVICE UNIFORMS)'
+p665
+aS'Oral Answers to Questions \xe2\x80\x94 DOMINION GOVERNMENTS (INFORMATION AND CONSULTATION)'
+p666
+aS'Oral Answers to Questions \xe2\x80\x94 MEMBERS OF PARLIAMENT (MISSING AIRCRAFT, ITALY)'
+p667
+aS'Oral Answers to Questions \xe2\x80\x94 ARAB STATES (DISCUSSIONS)'
+p668
+aS'Oral Answers to Questions \xe2\x80\x94 CHICAGO AIR CONFERENCE'
+p669
+aS'PURCHASE TAX (CHARGES) (UTILITY FUR GARMENTS)'
+p670
+aS'Oral Answers to Questions \xe2\x80\x94 TEHERAN AND YALTA DECISIONS (PUBLICATION)'
+p671
+aS'Orders of the Day \xe2\x80\x94 ADJOURNMENT'
+p672
+aS'Oral Answers to Questions \xe2\x80\x94 OCCUPIED GERMANY (EDUCATION)'
+p673
+aS"Orders of the Day \xe2\x80\x94 KING'S SPEECH"
+p674
+aS'Orders of the Day \xe2\x80\x94 CIVIL AVIATION'
+p675
+aS'FOREIGN SITUATION'
+p676
+aS'UNITED KINGDOM AND VICHY GOVERNMENTS (1940 NEGOTIATIONS)'
+p677
+aS'PRIVATE BILLS [Lords]'
+p678
+aS"Oral Answers to Questions \xe2\x80\x94 GERMAN GOVERNMENT'S RECORD (REPORT)"
+p679
+aS'Oral Answers to Questions \xe2\x80\x94 UNITED STATES FORCES (DUTY-FREE PARCELS)'
+p680
+aS'Oral Answers to Questions \xe2\x80\x94 OIL REFINING INDUSTRY'
+p681
+aS'Oral Answers to Questions \xe2\x80\x94 GIBRALTAR EVACUEES, NORTHERN IRELAND'
+p682
+aS'Orders of the Day \xe2\x80\x94 CAMPS BILL [Lords]'
+p683
+aS'Oral Answers to Questions \xe2\x80\x94 YUGOSLAVIA'
+p684
+aS'Oral Answers to Questions \xe2\x80\x94 PUBLIC ASSISTANCE INSTITUTIONS'
+p685
+aS'Oral Answers to Questions \xe2\x80\x94 SPAIN (BRITISH BIBLES AND MISSIONARIES)'
+p686
+aS'Oral Answers to Questions \xe2\x80\x94 NORTHERN IRELAND (EDUCATION LEGISLATION)'
+p687
+aS'Oral Answers to Questions \xe2\x80\x94 TIMBER (SUPPLIES FROM GERMANY)'
+p688
+aS'Oral Answers to Questions \xe2\x80\x94 ESPARTO GRASS'
+p689
+aS'Oral Answers to Questions \xe2\x80\x94 WAR SITUATION (STATEMENT)'
+p690
+aS'Oral Answers to Questions \xe2\x80\x94 UPPER GWENDRAETH RIVER (SILTING)'
+p691
+aS'Orders of the Day \xe2\x80\x94 LIBERATED EUROPE (BRITISH INTERVENTION)'
+p692
+aS'Oral Answers to Questions \xe2\x80\x94 BUILDING PERMITS (AUTHORITIES)'
+p693
+aS'Oral Answers to Questions \xe2\x80\x94 DISABLED PERSONS (EMPLOYMENT) ACT (ADVISORY COUNCIL)'
+p694
+aS'GIBRALTAR EVACUEES (NORTHERN IRELAND)'
+p695
+aS'Oral Answers to Questions \xe2\x80\x94 MIDDLE EAST SUPPLY CENTRE'
+p696
+aS'Oral Answers to Questions \xe2\x80\x94 SOAP SUPPLIES, LONDON AREA'
+p697
+aS'Orders of the Day \xe2\x80\x94 EMERGENCY POWERS (DEFENCE) (GENERAL REGULATIONS)'
+p698
+aS'BUSINESS AND SITTINGS OF THE HOUSE'
+p699
+aS'Oral Answers to Questions \xe2\x80\x94 CHANNEL ISLANDS'
+p700
+aS'Orders of the Day \xe2\x80\x94 LOCAL ELECTIONS AND REGISTER OF ELECTORS (TEMPORARY PROVISIONS) BILL'
+p701
+aS'Oral Answers to Questions \xe2\x80\x94 WAR SAVINGS CERTIFICATES (ARMY POST OFFICES)'
+p702
+aS'ANGLO-FRENCH FINANCIAL AGREEMENT'
+p703
+aS'TRAIN EXPLOSION (BOOTLE, CUMBERLAND)'
+p704
+aS'Oral Answers to Questions \xe2\x80\x94 LOCAL ELECTIONS (SERVICE CANDIDATES)'
+p705
+aS'PERSONAL STATEMENT'
+p706
+aS'HOUSE OF COMMONS (REBUILDING)'
+p707
+aS'Orders of the Day \xe2\x80\x94 HOUSING (TEMPORARY ACCOMMODATION) BILL'
+p708
+aS'Oral Answers to Questions \xe2\x80\x94 URBAN DISTRICT COUNCILLORS (EXPENSES)'
+p709
+aS'Oral Answers to Questions \xe2\x80\x94 UGANDA (DEPORTATION ORDER)'
+p710
+aS'FINANCE CORPORATIONS (MINISTERIAL RESPONSIBILITY)'
+p711
+aS'Oral Answers to Questions \xe2\x80\x94 COMMON INFORMERS'
+p712
+aS'CLAUSE 3.\xe2\x80\x94(Appointment Of Officers, remuneration and expense,)'
+p713
+aS'Oral Answers to Questions \xe2\x80\x94 ORDERS AND REGULATIONS (MINISTERIAL EXPLANATIONS)'
+p714
+aS'Oral Answers to Questions \xe2\x80\x94 FAR EAST (WAR SITUATION)'
+p715
+aS'CLAUSE 6.\xe2\x80\x94(Interpretation.)'
+p716
+aS'Oral Answers to Questions \xe2\x80\x94 MERCHANT NAVY WIRELESS OFFICERS (CALL-UP)'
+p717
+aS'Oral Answers to Questions \xe2\x80\x94 NEW MOTOR ROADS (AGRICULTURAL LAND)'
+p718
+aS"Oral Answers to Questions \xe2\x80\x94 MURDER CHARGE (WOMAN'S LEGAL AID)"
+p719
+aS'Oral Answers to Questions \xe2\x80\x94 FREEDOM PRESS OFFICES (POLICE SEARCH)'
+p720
+aS"Oral Answers to Questions \xe2\x80\x94 POLICE CONSTABLE'S WIDOW, KEIGHLEY (PENSION)"
+p721
+aS'SCHEDULE'
+p722
+aS'Oral Answers to Questions \xe2\x80\x94 GERMANY (CONTROL COMMISSION)'
+p723
+aS'Oral Answers to Questions \xe2\x80\x94 JARROW TUNNEL PROJECT'
+p724
+aS'AGRICULTURE (PRICES)'
+p725
+aS'GREAT BRITAIN AND RUSSIA (EXCHANGE OF GREETINGS)'
+p726
+aS'Oral Answers to Questions \xe2\x80\x94 CZECHOSLOVAKIA (GOVERNMENT)'
+p727
+aS'Oral Answers to Questions \xe2\x80\x94 DISABLED PERSONS (EMPLOYMENT)'
+p728
+aS'Oral Answers to Questions \xe2\x80\x94 PETROL ALLOWANCES (EX-SERVICE MEN)'
+p729
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR (REPATRIATION)'
+p730
+aS'Orders of the Day \xe2\x80\x94 REQUISITIONED LAND AND WAR WORKS BILL'
+p731
+aS'Oral Answers to Questions \xe2\x80\x94 MAINTENANCE ORDERS (DEFAULT)'
+p732
+aS'BRITISH ARMY (REQUISITIONED PROPERTY)'
+p733
+aS'Oral Answers to Questions \xe2\x80\x94 SAN FRANCISCO CONFERENCE'
+p734
+aS'Oral Answers to Questions \xe2\x80\x94 GREAT BRITAIN AND UNITED STATES (PAYMENTS)'
+p735
+aS'Oral Answers to Questions \xe2\x80\x94 THEFTS OF MOTOR-CARS, LONDON'
+p736
+aS'Oral Answers to Questions \xe2\x80\x94 WAR CRIMINALS (NEUTRAL COUNTRIES)'
+p737
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH PRISONERS OF WAR, GERMANY (PARCELS)'
+p738
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH WAR EFFORT (FILM)'
+p739
+aS'QUESTIONS TO MINISTERS'
+p740
+aS'Orders of the Day \xe2\x80\x94 BURMA'
+p741
+aS'Oral Answers to Questions \xe2\x80\x94 UNDELIVERED POSTAL PARCELS (SALE)'
+p742
+aS'Orders of the Day \xe2\x80\x94 WAGES COUNCILS BILL'
+p743
+aS'Orders of the Day \xe2\x80\x94 ROYAL AIR FORCE (EDUCATION OFFICERS)'
+p744
+aS'Oral Answers to Questions \xe2\x80\x94 ARMED FORCES, FAR EAST (WELFARE)'
+p745
+aS'SITTINGS OF THE HOUSE'
+p746
+aS'EMERGENCY POWERS (DEFENCE) (HOLIDAYS)'
+p747
+aS"Oral Answers to Questions \xe2\x80\x94 KING'S BADGE (PUBLICITY)"
+p748
+aS'Orders of the Day \xe2\x80\x94 DEBATE ON THE ADDRESS'
+p749
+aS'Oral Answers to Questions \xe2\x80\x94 POST-WAR INDUSTRY (FINANCE CORPORATIONS)'
+p750
+aS'Oral Answers to Questions \xe2\x80\x94 REPATRIATED PRISONERS OF WAR (TUBERCULOSIS)'
+p751
+aS'Orders of the Day \xe2\x80\x94 EXPORT GUARANTEES BILL'
+p752
+aS'EX-MEMBERS (VISITS TO HOUSE)'
+p753
+aS'INDIA (GOVERNMENT POLICY)'
+p754
+aS'HOUSING (MODIFICATION OF TEMPORARY PROGRAMME)'
+p755
+aS'Oral Answers to Questions \xe2\x80\x94 LIBERATED TERRITORIES'
+p756
+aS'Oral Answers to Questions \xe2\x80\x94 FOOD SUPPLIES'
+p757
+aS'Oral Answers to Questions \xe2\x80\x94 FOREIGN SERVICE (WOMEN)'
+p758
+aS'Oral Answers to Questions \xe2\x80\x94 PRISONERS OF WAR (EXCHANGE)'
+p759
+aS'Orders of the Day \xe2\x80\x94 REPRESENTATION OF THE PEOPLE BILL'
+p760
+aS'Oral Answers to Questions \xe2\x80\x94 RUSSIA'
+p761
+aS'Oral Answers to Questions \xe2\x80\x94 UNEMPLOYMENT (STATISTICS)'
+p762
+aS'Orders of the Day \xe2\x80\x94 STREET BEGGING'
+p763
+aS'Oral Answers to Questions \xe2\x80\x94 PARLIAMENTARY MACHINERY'
+p764
+aS'Orders of the Day \xe2\x80\x94 BLACK-OUT REGULATIONS'
+p765
+aS'Oral Answers to Questions \xe2\x80\x94 AERONAUTICAL RESEARCH (NEW CENTRE)'
+p766
+aS'CIVIL ESTIMATES AND ESTIMATES FOR REVENUE DEPARTMENTS, 1945; NAVY, ARMY AND AIR ESTIMATES, 1945'
+p767
+aS'Oral Answers to Questions \xe2\x80\x94 BRITISH EMPIRE (POST-WAR MIGRATION)'
+p768
+aS'Oral Answers to Questions \xe2\x80\x94 MOTOR VEHICLES (TAXATION)'
+p769
+aS'Oral Answers to Questions \xe2\x80\x94 SERVICE PERSONNEL (RE-ALLOCATION)'
+p770
+aS'Oral Answers to Questions \xe2\x80\x94 CARTELS AND MONOPOLIES'
+p771
+aS'Oral Answers to Questions \xe2\x80\x94 AUSTRIA (PROVISIONAL GOVERNMENT)'
+p772
+aS'Oral Answers to Questions \xe2\x80\x94 "SHARK-CHASER" DEVICE (EXPERIMENTS)'
+p773
+aS'Oral Answers to Questions \xe2\x80\x94 CYPRUS'
+p774
+aS'Oral Answers to Questions \xe2\x80\x94 EGYPT (IMPORT DUTY ON SPIRITS)'
+p775
+aS'Oral Answers to Questions \xe2\x80\x94 PUBLIC RELATIONS OFFICERS'
+p776
+aS'Oral Answers to Questions \xe2\x80\x94 BULGARIA (ARMISTICE, TIME-LIMIT)'
+p777
+aS'Oral Answers to Questions \xe2\x80\x94 DOMESTIC SERVICE'
+p778
+aS'Oral Answers to Questions \xe2\x80\x94 MERCHANT NAVY (ELECTORAL REGISTRATION)'
+p779
+aS'Oral Answers to Questions \xe2\x80\x94 UGANDA'
+p780
+aS'Oral Answers to Questions \xe2\x80\x94 DISCHARGED SERVICE MEN (BADGE)'
+p781
+aS'BUSINESS OF THE HOUSE (SUPPLY)'
+p782
+aS'Oral Answers to Questions \xe2\x80\x94 WIRELESS OPERATORS (EMPLOYMENT)'
+p783
+aS'Oral Answers to Questions \xe2\x80\x94 FOOTPATHS AND BRIDLE PATHS'
+p784
+aS'Oral Answers to Questions \xe2\x80\x94 WAR AGAINST JAPAN (BRITISH PARTICIPATION)'
+p785
+aS'Oral Answers to Questions \xe2\x80\x94 ITALY (COUNT SFORZA)'
+p786
+aS'Orders of the Day \xe2\x80\x94 ARMY CHAPLAINS (PAY AND PROMOTION)'
+p787
+aS'Oral Answers to Questions \xe2\x80\x94 PUBLIC HEALTH'
+p788
+aS'MEMBERS OF PARLIAMENT (MISSING AIRCRAFT, ITALY)'
+p789
+aS'Oral Answers to Questions \xe2\x80\x94 MATERNITY HOME, CHELTENHAM (STAFF)'
+p790
+aS'Oral Answers to Questions \xe2\x80\x94 RECONDITIONED HOUSES (RURAL AREAS)'
+p791
+aS'Oral Answers to Questions \xe2\x80\x94 "OFFICIAL PAID" ENVELOPES (MISUSE)'
+p792
+aS'Oral Answers to Questions \xe2\x80\x94 MAURITIUS (CONDITIONS)'
+p793
+aS'Oral Answers to Questions \xe2\x80\x94 HOSPITAL NURSES (RELEASE FROM FORCES)'
+p794
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN ATROCITIES (PUBLICATION)'
+p795
+aS'Oral Answers to Questions \xe2\x80\x94 MINISTRY OF INFORMATION'
+p796
+aS'Oral Answers to Questions \xe2\x80\x94 IDENTITY CARDS'
+p797
+aS'Oral Answers to Questions \xe2\x80\x94 GOVERNMENT STAFFS (EVACUATION SCHEME)'
+p798
+aS'Oral Answers to Questions \xe2\x80\x94 WEST AFRICA (EDUCATION COMMISSION REPORT)'
+p799
+aS'Oral Answers to Questions \xe2\x80\x94 THREE-POWER MEETING (VENUE)'
+p800
+aS'Oral Answers to Questions \xe2\x80\x94 JURORS (EXPENSES)'
+p801
+aS'Orders of the Day \xe2\x80\x94 BRITISH ADVERTISEMENTS, RUSSIA'
+p802
+aS'Oral Answers to Questions \xe2\x80\x94 SAN FRANCISCO CONFERENCE (TRADES UNION REPRESENTATION)'
+p803
+aS'Orders of the Day \xe2\x80\x94 INCOME TAX BILL'
+p804
+aS'Oral Answers to Questions \xe2\x80\x94 DIRECTED MINEWORKER (PRISON SENTENCE)'
+p805
+aS'B.O.A.C. (PRIVATE NOTICE QUESTION)'
+p806
+aS'INDIA (ESTATE DUTY) BILL [Lords]'
+p807
+aS'Oral Answers to Questions \xe2\x80\x94 CANADIAN SERVICE MEN (AFFILIATION ORDERS)'
+p808
+aS'Oral Answers to Questions \xe2\x80\x94 EVACUATED BRITISH CHILDREN, UNITED STATES'
+p809
+aS'Oral Answers to Questions \xe2\x80\x94 PASSENGER TRANSPORT VEHICLES (CONSTRUCTION ORDER)'
+p810
+aS'Oral Answers to Questions \xe2\x80\x94 ELECTRICITY GENERATING STATIONS (PLANT)'
+p811
+aS'Orders of the Day \xe2\x80\x94 MEMBERS OF PARLIAMENT (EXIT PERMITS)'
+p812
+aS'Oral Answers to Questions \xe2\x80\x94 DISABLED EX-SERVICEMEN (WHEEL-CHAIRS)'
+p813
+aS'Orders of the Day \xe2\x80\x94 CHARTERED AND OTHER BODIES (TEMPORARY PROVISIONS)'
+p814
+aS'INFANTRY (PAY AND PRECEDENCE)'
+p815
+aS'Oral Answers to Questions \xe2\x80\x94 PUBLK HEALTH'
+p816
+aS"Orders of the Day \xe2\x80\x94 WOMEN'S LAND ARMY"
+p817
+aS'Orders of the Day \xe2\x80\x94 ROAD TRANSPORT LIGHTING (CYCLES) BILL [Lords]'
+p818
+aS'Oral Answers to Questions \xe2\x80\x94 BALTIC REPUBLICS (RECOGNITION)'
+p819
+aS'Oral Answers to Questions \xe2\x80\x94 WEST INDIES'
+p820
+aS'Oral Answers to Questions \xe2\x80\x94 DISABLED SERVICE PERSONNEL (EMPLOYMENT)'
+p821
+aS'Orders of the Day \xe2\x80\x94 LAW REFORM (CONTRIBUTORY NEGLIGENCE) BILL [Lords]'
+p822
+aS'Orders of the Day \xe2\x80\x94 PURCHASE TAX (ALTERATION OF RATES)'
+p823
+aS'Oral Answers to Questions \xe2\x80\x94 ATLANTIC CHARTER'
+p824
+aS'Oral Answers to Questions \xe2\x80\x94 PARLIAMENTARY ELECTIONS'
+p825
+aS'Oral Answers to Questions \xe2\x80\x94 MEMBERS OF PARLIAMENT (VISITS TO WAR FRONTS)'
+p826
+aS'Oral Answers to Questions \xe2\x80\x94 B.B.C. BOARD OF GOVERNORS'
+p827
+aS'Oral Answers to Questions \xe2\x80\x94 NURSES REGISTRATION ACT (FEES)'
+p828
+aS'LOCAL GOVERNMENT WHITE PAPER (RECONSTRUCTION)'
+p829
+aS'Oral Answers to Questions \xe2\x80\x94 OVERSEA FORCES (CHRISTMAS PARCELS)'
+p830
+aS'Oral Answers to Questions \xe2\x80\x94 WAR CRIMINALS'
+p831
+aS'Oral Answers to Questions \xe2\x80\x94 GENERAL BOR (NEWSPAPER ARTICLE)'
+p832
+aS'Oral Answers to Questions \xe2\x80\x94 SUPPLIES TO CHINA (BRITISH AIR TRANSPORT)'
+p833
+aS'Oral Answers to Questions \xe2\x80\x94 EUROPEAN ADVISORY COMMISSION'
+p834
+aS'Oral Answers to Questions \xe2\x80\x94 ARGENTINA (PRIMITIVA GAS COMPANY)'
+p835
+aS'DEATH OF EARL LLOYD-GEORGE OF DWYFOR, O.M.'
+p836
+aS'Orders of the Day \xe2\x80\x94 EIRE (WAR CRIMINALS, RIGHT OF ASYLUM)'
+p837
+aS'Oral Answers to Questions \xe2\x80\x94 DEMOBILISATION'
+p838
+aS'CHANNEL ISLANDS (SUPPLIES)'
+p839
+aS'Oral Answers to Questions \xe2\x80\x94 MEMBERS OF PARLIAMENT (GOVERNMENT APPOINTMENTS ABROAD)'
+p840
+aS'Oral Answers to Questions \xe2\x80\x94 POLISH SEAMEN, BIRKENHEAD'
+p841
+aS'Oral Answers to Questions \xe2\x80\x94 GERMAN TERRITORY (RUSSIA AND FRANCE)'
+p842
+aS'Oral Answers to Questions \xe2\x80\x94 HOUSE OF COMMONS DISQUALIFI CATION ACT (EXPIRY)'
+p843
+asI74
+(lp844
+S'FABIO ALVES-NUNES'
+p845
+aS'PETITION \xe2\x80\x94 Coastguard Services (Devon)'
+p846
+aS'SWINE FLU'
+p847
+aS'Opposition Day \xe2\x80\x94 [16th Allotted Day]'
+p848
+aS'DUCHY OF LANCASTER'
+p849
+aS'WATER METERING'
+p850
+aS'Petition \xe2\x80\x94 Taxation (Bingo Clubs)'
+p851
+aS'BILL PRESENTED'
+p852
+aS'CLATTERBRIDGE CENTRE FOR ONCOLOGY'
+p853
+aS'SCIENCE AND INNOVATION (SEDGEFIELD)'
+p854
+aS'DEBT COLLECTION (CONSUMER CREDIT ACT)'
+p855
+aS'CHILDREN, SCHOOLS AND FAMILIES'
+p856
+aS'WATER CHARGES'
+p857
+aS'PETITION \xe2\x80\x94 Planning and Development (Cheshire)'
+p858
+aS'Guide to the Rules Relating to the Conduct of Members'
+p859
+aS'PEDESTRIAN CROSSING INSTALLATIONS'
+p860
+aS'ENID RUHANGO'
+p861
+aS'Airport Expansion (Parliamentary Approval)'
+p862
+aS'MENTAL HEALTH ADVOCACY'
+p863
+aS'"THE SPIRIT OF HUMANITY"'
+p864
+aS'GOVERNMENT POLICY (TORTURE OVERSEAS)'
+p865
+aS'PETITION \xe2\x80\x94 Planning and Development (Sutton)'
+p866
+aS'SUPPLEMENTARY ESTIMATES 2008-09 \xe2\x80\x94 DEPARTMENT FOR BUSINESS, ENTERPRISE AND REGULATORY REFORM'
+p867
+aS'HUMBER BRIDGE TOLLS'
+p868
+aS'Economic Recovery'
+p869
+aS'PENICILLIN'
+p870
+aS'THREE-TIER EDUCATION (BEDFORDSHIRE)'
+p871
+aS'CAFCASS'
+p872
+aS'COUNCIL RENTS (LAMBETH)'
+p873
+aS'Business of the House'
+p874
+aS'Point of Order'
+p875
+aS'TERRITORIAL ARMY'
+p876
+aS'Points of Order'
+p877
+aS'ALFRED SARGENT AND SONS LTD'
+p878
+aS'Parliamentary Elections (Recall and Primaries)'
+p879
+aS'WATER CHARGING (SOUTH-WEST)'
+p880
+aS"MEMBERS' HOME ADDRESSES"
+p881
+aS'Cohabitation'
+p882
+aS"Bankers' Pensions (Limits)"
+p883
+aS'PETITION \xe2\x80\x94 Northern Rock'
+p884
+aS'PORT OF LIVERPOOL (BUSINESS RATES)'
+p885
+aS'UNPLANNED TEENAGE PREGNANCIES (NOTTINGHAM)'
+p886
+aS'Opposition Day \xe2\x80\x94 [2nd Allotted Day]'
+p887
+aS'RIVERS HULL AND HUMBER (FLOOD RISK)'
+p888
+aS'DENTISTRY (NOTTINGHAM, NORTH)'
+p889
+aS'BUSINESS, ENTERPRISE AND REGULATORY REFORM'
+p890
+aS'COMPLEMENTARY AND ALTERNATIVE MEDICINES'
+p891
+aS'Mid Staffordshire NHS Foundation Trust'
+p892
+aS'UK BORDER AGENCY'
+p893
+aS'ENVIRONMENT, FOOD AND RURAL AFFAIRS'
+p894
+aS'CABINET OFFICE'
+p895
+aS'AUNG SAN SUU KYI'
+p896
+aS'Pension Credit and Personal Expense Allowance (Duty of Consultation and Review)'
+p897
+aS'PAIN MANAGEMENT SERVICES (ENGLAND)'
+p898
+aS'Perpetuities and Accumulations Bill [ Lords]'
+p899
+aS'LLOYDS TSB AND IRAN (SANCTIONS)'
+p900
+aS'WAR MEMORIALS'
+p901
+aS'ROYAL HOSPITAL HASLAR'
+p902
+aS'GILES CARLYLE-CLARKE'
+p903
+aS'CONCESSIONARY BUS FARES'
+p904
+aS'TSUNAMI MEMORIAL'
+p905
+aS'Gangmasters Licensing Act 2004 (Amendment) Bill'
+p906
+aS'BILLS PRESENTED'
+p907
+aS'SCOTLAND'
+p908
+aS'ASBESTOS IN HOMES'
+p909
+aS'Estimates Day \xe2\x80\x94 [3rd Allotted Day] \xe2\x80\x94 DEPARTMENT FOR CHILDREN, SCHOOLS AND FAMILIES'
+p910
+aS'Opposition Day \xe2\x80\x94 [4th Allotted Day]'
+p911
+aS'Appointment of the Comptroller and Auditor General'
+p912
+aS'OLYMPICS'
+p913
+aS'PREJUDICE AND MENTAL HEALTH'
+p914
+aS'IMMIGRATION RULES (SMALL BUSINESSES)'
+p915
+aS'SRI LANKA'
+p916
+aS'PETITION \xe2\x80\x94 Steel Industry (Yorkshire)'
+p917
+aS'HOUSING AND CONSTRUCTION INDUSTRY'
+p918
+aS'Prevention and Suppression of Terrorism'
+p919
+aS'CONSOLIDATED FUND BILL'
+p920
+aS'Theft from Shops (Use of Penalty Notices for Disorder)'
+p921
+aS'Opposition Day \xe2\x80\x94 [12th Allotted Day]'
+p922
+aS'CULTURE, MEDIA AND SPORT'
+p923
+aS'Rentcharges (Notification)'
+p924
+aS'PEAK OIL'
+p925
+aS'BUSINESS, INNOVATION AND SKILLS'
+p926
+aS'Opposition Day \xe2\x80\x94 [5th Allotted Day]'
+p927
+aS'BOURNEMOUTH AND POOLE FE COLLEGE'
+p928
+aS"NAOMI HOUSE CHILDREN'S HOSPICE"
+p929
+aS'LEADER OF THE HOUSE'
+p930
+aS'Opposition Day \xe2\x80\x94 [1st Allotted Day]'
+p931
+aS'RESIDENTIAL ROADS (ADOPTION)'
+p932
+aS'LEGAL PROFESSION'
+p933
+aS'ROYAL ASSENT'
+p934
+aS'DOMESTIC VIOLENCE (BLACK AND MINORITY ETHNIC VICTIMS)'
+p935
+aS'NORTHERN IRELAND'
+p936
+aS'EUROPEAN UNION DOCUMENTS'
+p937
+aS'CIVIL LIBERTIES (MOLE VALLEY)'
+p938
+aS'PERNICIOUS ANAEMIA'
+p939
+aS'Opposition Day \xe2\x80\x94 [7th Allotted Day]'
+p940
+aS'Developing Country Debt (Restriction of Recovery)'
+p941
+aS'TAXI DRIVERS (ASSAULT)'
+p942
+aS'FOREIGN AND COMMONWEALTH OFFICE'
+p943
+aS'DR. ADRIAN GARFOOT'
+p944
+aS'HOUSING (STOKE-ON-TRENT)'
+p945
+aS'FREE FRUIT IN SCHOOLS'
+p946
+aS'Opposition Day'
+p947
+aS'SCHOOL BUS SAFETY'
+p948
+aS'BLACKLISTING (CONSTRUCTION INDUSTRY)'
+p949
+aS'GROCERY SECTOR'
+p950
+aS'Closed Circuit Television (Monitoring and Promotion)'
+p951
+aS'PETITIONS'
+p952
+aS'Support for Women (Economic Downturn)'
+p953
+aS'LOW-VALUE CONSIGNMENT VAT RELIEF'
+p954
+aS'PETITION \xe2\x80\x94 National Parks (New Forest)'
+p955
+aS'HUMBERSIDE PROBATION SERVICE'
+p956
+aS'Opposition Day \xe2\x80\x94 [18th Allotted Day]'
+p957
+aS'PETITION \xe2\x80\x94 HIV and the G8'
+p958
+aS'Bailiffs (Repeals and Amendment)'
+p959
+aS'Opposition Day \xe2\x80\x94 [13th Allotted Day]'
+p960
+aS'Public Accounts'
+p961
+aS'WOMEN AND EQUALITY'
+p962
+aS'WORKPLACE PARKING LEVY (NOTTINGHAM)'
+p963
+aS'MENTAL HEALTH SERVICES'
+p964
+aS'Local Democracy, Economic Development and Construction Bill [ Lords]'
+p965
+aS'ACCESS TO PARLIAMENT (UNITED KINGDOM MEMBERS OF THE EUROPEAN PARLIAMENT)'
+p966
+aS'REGIONAL AND LOCAL GOVERNMENT'
+p967
+aS'Coroners and Justice Bill'
+p968
+aS'PETITION \xe2\x80\x94 School Transport (Hertfordshire)'
+p969
+aS'HOUSE OF COMMONS COMMISSION'
+p970
+aS'BIOFUELS'
+p971
+aS'Opposition Day \xe2\x80\x94 [20th Allotted Day]'
+p972
+aS'POSTAL SERVICES (RYE)'
+p973
+aS'2011 CENSUS (SOUTHEND)'
+p974
+aS'Petition \xe2\x80\x94 Equitable Life (North Dorset)'
+p975
+aS'TRADITIONAL CRAFTS'
+p976
+aS'BILLS PRESENTED \xe2\x80\x94 Business Rate Supplements Bill'
+p977
+aS'COUNCILLOR PAUL BUCHANAN'
+p978
+aS'REGIONAL SELECT COMMITTEE (SOUTH WEST)'
+p979
+aS'PRAYERS'
+p980
+aS'CHURCH COMMISSIONERS'
+p981
+aS'Political Parties and Elections Bill'
+p982
+aS'MSC NAPOLI'
+p983
+aS'Petition \xe2\x80\x94 Bullying (Armed Forces)'
+p984
+aS'EDGBASTON CRICKET GROUND'
+p985
+aS'ALISTAIR IAIN CAMPBELL'
+p986
+aS'Employment Opportunities'
+p987
+aS'PETITION \xe2\x80\x94 Traffic Noise (M6)'
+p988
+aS'DEPARTMENT FOR TRANSPORT'
+p989
+aS'BILL PRESENTED \xe2\x80\x94 Northern Ireland Bill'
+p990
+aS'Climate Change'
+p991
+aS'CHARLES STUART'
+p992
+aS'Political Parties and Elections Bill (Extension of Carry-over)'
+p993
+aS'Business Rate Supplements Bill'
+p994
+aS'SCOTTISH BANKNOTES (ACCEPTABILITY IN UNITED KINGDOM) BILL'
+p995
+aS'Food Labelling Regulations (Amendment)'
+p996
+aS'PETITION \xe2\x80\x94 Immigration and Citizenship'
+p997
+aS"MEN'S HEALTH AT WORK"
+p998
+aS'OAKINGTON IMMIGRATION REMOVAL CENTRE'
+p999
+aS'EASTHAM'
+p1000
+aS'Sale of Mobile Homes (Interviews)'
+p1001
+aS'Opposition Day \xe2\x80\x94 [15th Allotted Day]'
+p1002
+aS'Industry and Exports (Financial Support) Bill'
+p1003
+aS'UK INVENTORS'
+p1004
+aS'Surface Water and Highway Drainage Charges (Exemption) Bill'
+p1005
+aS'BILL PRESENTED \xe2\x80\x94 Local Planning Authorities (Protection of Local Services) Bill'
+p1006
+aS'SELECT COMMITTEE ON THE REFORM OF THE HOUSE OF COMMONS'
+p1007
+aS'Business of the House (Consolidated Fund Bill)'
+p1008
+aS'ARMSTRONG GROUP PENSION FUND'
+p1009
+aS'Opposition Day \xe2\x80\x94 [8th Allotted Day]'
+p1010
+aS'ENERGY AND CLIMATE CHANGE'
+p1011
+aS'Intelligence and Security Committee'
+p1012
+aS'SITTINGS OF THE HOUSE'
+p1013
+aS'INNOVATION, UNIVERSITIES AND SKILLS'
+p1014
+aS'NATO'
+p1015
+aS'PETITION \xe2\x80\x94 Sri Lanka'
+p1016
+aS'Prevention of Excessive Charges'
+p1017
+aS'SOLICITOR-GENERAL'
+p1018
+aS'Employment Retention'
+p1019
+aS'Hydrofluorocarbons Limitation'
+p1020
+aS'PRIVATE JAMES SMITH'
+p1021
+aS'NEIGHBOURHOOD RENEWAL FUNDING (PETERBOROUGH)'
+p1022
+aS'JUSTICE'
+p1023
+aS'TEACHERS AND PUPILS (PHYSICAL CONTACT)'
+p1024
+aS'TREASURY'
+p1025
+aS'WEST SUSSEX PRIMARY CARE TRUST (REVIEW)'
+p1026
+aS'ILLEGAL RADIO BROADCASTS'
+p1027
+aS'STOURBRIDGE GLASS COLLECTION'
+p1028
+aS'TODMORDEN RAIL LINK'
+p1029
+aS'Defence Policy'
+p1030
+aS'Parliamentary Standards Bill'
+p1031
+aS'PCSOS (SOMERSET)'
+p1032
+aS'Opposition Day \xe2\x80\x94 [9th Allotted Day]'
+p1033
+aS'CYPRUS'
+p1034
+aS'BRAZIL (VIOLENCE AND POLICE CORRUPTION)'
+p1035
+aS'FORD ECO-TOWN'
+p1036
+aS'ENERGY GENERATION (FOOD WASTE)'
+p1037
+aS'SAFEGUARDING CHILDREN (PRIVATE SCHOOLS)'
+p1038
+aS'SHELTERED ACCOMMODATION (BARNET)'
+p1039
+aS'Opposition Day \xe2\x80\x94 [17th Allotted Day]'
+p1040
+aS'NUCLEAR WEAPONS PROLIFERATION'
+p1041
+aS'Africa'
+p1042
+aS'BILL PRESENTED \xe2\x80\x94 Personal Responsibility'
+p1043
+aS'European Affairs'
+p1044
+aS'OUT-PATIENT FACILITIES (RUSHDEN)'
+p1045
+aS'REGIONAL SELECT COMMITTEE (YORKSHIRE AND THE HUMBER)'
+p1046
+aS'AMENDMENT OF THE LAW'
+p1047
+aS'PETITION \xe2\x80\x94 Traffic Management (County Durham)'
+p1048
+aS'Onshore Wind Turbines (Proximity of Habitation)'
+p1049
+aS'TRANSPORT'
+p1050
+aS'Defence Procurement'
+p1051
+aS'Opposition Day \xe2\x80\x94 [6th Allotted Day]'
+p1052
+aS'PETITION \xe2\x80\x94 Hospital Parking Charges (Cheshire)'
+p1053
+aS'PETITION \xe2\x80\x94 Health Care (Sunderland)'
+p1054
+aS'Holocaust (Return of Cultural Objects) Bill'
+p1055
+aS'PETITION \xe2\x80\x94 Flooding (Surrey)'
+p1056
+aS'OUTLAWRIES BILL'
+p1057
+aS'MINISTERIAL ANSWERS TO PARLIAMENTARY QUESTIONS'
+p1058
+aS'VISTEON FACTORY (BASILDON)'
+p1059
+aS'RAIL SERVICES (ACCESS)'
+p1060
+aS'RIVER FORTH CROSSING'
+p1061
+aS'PETITION \xe2\x80\x94 Gaza'
+p1062
+aS'SELF-BALANCING PERSONAL TRANSPORTERS'
+p1063
+aS'Gaza'
+p1064
+aS'Opposition Day \xe2\x80\x94 [10th Allotted Day]'
+p1065
+aS'WALES'
+p1066
+aS'HEALTH SERVICES (TELFORD)'
+p1067
+aS'STANDARDS BOARD FOR ENGLAND'
+p1068
+aS'UNITED STATES MISSILE DEFENCE SHIELD'
+p1069
+aS'HEALTH BILL [ LORDS] (PROGRAMME) (NO. 2)'
+p1070
+aS'PUBLIC ACCOUNTS COMMISSION'
+p1071
+aS'INTERNATIONAL DEVELOPMENT'
+p1072
+aS'Opposition Day \xe2\x80\x94 [19th allotted day]'
+p1073
+aS'ELECTORAL COMMISSION COMMITTEE'
+p1074
+aS'Opposition Day \xe2\x80\x94 [3rd Allotted Day]'
+p1075
+aS"Members' Allowances"
+p1076
+aS'Protection of Children (Publicity)'
+p1077
+aS'SLEEP APNOEA (ROAD DEATHS)'
+p1078
+aS'HOME DEPARTMENT'
+p1079
+aS'VEHICLE SCRAPPAGE SCHEME'
+p1080
+aS'HOUSING SUBSIDY'
+p1081
+aS'HOUSING SUBSIDY (BARKING AND DAGENHAM)'
+p1082
+aS'Council Tax Rebate'
+p1083
+aS'Commission for the Compact'
+p1084
+aS'DELEGATED LEGISLATION'
+p1085
+aS'BILL PRESENTED \xe2\x80\x94 Constitutional Reform and Governance Bill'
+p1086
+aS'WELFARE REFORM BILL (PROGRAMME) (NO. 2)'
+p1087
+aS'DEFENCE'
+p1088
+aS'WORK AND PENSIONS'
+p1089
+aS'UNDER 10-METRE FISHING FLEET'
+p1090
+aS'GURKHA PENSIONS'
+p1091
+aS'Registration of Births and Deaths (Welsh Language)'
+p1092
+aS'LIFE SKILLS (NATIONAL CURRICULUM)'
+p1093
+aS'Opposition Day \xe2\x80\x94 [14th allotted day]'
+p1094
+aS'FURNITURE INDUSTRY'
+p1095
+aS'Legislative Reform'
+p1096
+aS'Parliamentary Commissions of Inquiry'
+p1097
+aS'UK AID (DRC)'
+p1098
+aS'FLOODING IN SOMERSET'
+p1099
+aS'RAIL TIMETABLES (LEWES)'
+p1100
+aS'PUBLIC HOUSES'
+p1101
+aS'SUPERMARKETS AND REGIONAL FARMING'
+p1102
+aS'COMMUNITIES AND LOCAL GOVERNMENT'
+p1103
+aS'BILL PRESENTED \xe2\x80\x94 Sustainable Energy (Local Plans) Bill'
+p1104
+aS'Financial Crisis'
+p1105
+aS'Estimates Day \xe2\x80\x94 [1st Allotted Day] \xe2\x80\x94 VOTE ON ACCOUNT, 2009-10 \xe2\x80\x94 OFFICE OF GAS AND ELECTRICITY MARKETS'
+p1106
+aS'Care Homes (Domestic Pets)'
+p1107
+aS'TAXATION (GAMBLING)'
+p1108
+aS'FAMILY BENEFITS (ABSENT TEENAGE FATHERS)'
+p1109
+aS'POWER CUTS (NORTH-WEST KENT)'
+p1110
+aS'PETITION \xe2\x80\x94 Equitable Life (Daventry)'
+p1111
+aS'CITY AND HACKNEY PCT (TUBERCULOSIS)'
+p1112
+aS'PETITION \xe2\x80\x94 Princess Royal Hospital, Telford'
+p1113
+aS'PRIME MINISTER'
+p1114
+aS'RAIL FARE INCREASES (SOUTH-EAST)'
+p1115
+aS'MOBILE HOME PARKS'
+p1116
+aS'COUNCIL TAX BENEFIT'
+p1117
+aS'CONTROLLING URBAN SEAGULLS'
+p1118
+aS'HEALTH'
+p1119
+aS'BUSINESS OF THE HOUSE'
+p1120
+aS'Debate on the Address'
+p1121
+aS'Sri Lanka'
+p1122
+aS'FLOODING (SOUTH RIBBLE)'
+p1123
+aS'CONSULTATIONS ON POST OFFICE CLOSURES'
+p1124
+aS'SCHOOL NURTURE GROUPS'
+p1125
+aS'NEW MEMBER'
+p1126
+aS'DOMESTIC ENERGY USERS'
+p1127
+aS'Opposition Day \xe2\x80\x94 [11th Allotted Day]'
+p1128
+as.

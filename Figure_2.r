@@ -1,0 +1,31 @@
+# Figure 2: Density Plot of Predicted Probability
+# Conservative For Different Levels of Noise.
+
+rm(list=ls())
+library(ggplot2)
+library(reshape2)
+
+
+wd <- getwd()
+data.dir <- paste0(wd, "/data/")
+df <- read.csv(paste0(data.dir, "preds_sims.csv"))
+
+df$noisefrac <- seq(0,.999, .001) # cut off 1 in python...
+
+df4 <- df[c(101, 301, 501, 701, 901),] # presenting too many makes viz unclear
+
+m <- melt(df4, id.vars='noisefrac')
+
+
+m$party <- sapply(m$variable, substring, 1,1)
+m$party[m$party=='r'] <- 'Right'
+m$party[m$party=='l'] <- 'Left'
+
+
+left <- m[m$party=='Left',]
+right <- m[m$party=='Right',]
+
+p <- ggplot(m, aes(value, linetype=as.factor(noisefrac)))
+p +  geom_density() + theme_bw() + xlim(0,1)+labs(linetype = "Fraction Noise") + xlab("Predicted Probability Conservative") + ylab("density")
+ggsave("density_by_noise.pdf",  width=10, height=6)
+dev.off()
