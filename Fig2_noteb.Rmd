@@ -1,16 +1,25 @@
-# Figure 2: Density Plot of Predicted Probability
-# Conservative For Different Levels of Noise.
+---
+title: "Figure 2 replication"
+output: html_notebook
+---
+
+```{r}
 
 rm(list=ls())
 library(ggplot2)
 library(reshape2)
 
 
-wd <- getwd()
+#wd <- getwd()
+wd <- "/Users/andrew/Dropbox/machine_parliament/PA_replication/"
 data.dir <- paste0(wd, "/data/")
-df <- read.csv(paste0(data.dir, "preds_sims_sel.csv"), header=T)
+df <- read.csv(paste0(data.dir, "preds_sims.csv"))
 
-m <- melt(df, id.vars='noisefrac')
+df$noisefrac <- seq(0,.999, .001) # cut off 1 in python...
+
+df4 <- df[c(101, 301, 501, 701, 901),] # presenting too many makes viz unclear
+
+m <- melt(df4, id.vars='noisefrac')
 
 
 m$party <- sapply(m$variable, substring, 1,1)
@@ -23,5 +32,6 @@ right <- m[m$party=='Right',]
 
 p <- ggplot(m, aes(value, linetype=as.factor(noisefrac)))
 p +  geom_density() + theme_bw() + xlim(0,1)+labs(linetype = "Fraction Noise") + xlab("Predicted Probability Conservative") + ylab("density")
-ggsave("density_by_noise.pdf",  width=10, height=6)
-dev.off()
+#ggsave("density_by_noise.pdf",  width=10, height=6)
+#dev.off()
+```
