@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import re
 import string
-import cPickle as pickle
+import pickle as pickle
 import os
 #from nltk.corpus import stopwords
 import itertools
@@ -26,8 +26,8 @@ from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.linear_model import Perceptron
 from sklearn.linear_model import LogisticRegression
 
-from sklearn.cross_validation import StratifiedKFold
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import train_test_split
 
 
 #------------------------------------------------------------------------------------------
@@ -109,7 +109,6 @@ def fit_pred_offline_classifiers(X_train, y_train, X_test, y_test, X):
 
 	for cls_name, cls in classifiers_balanced.items():
 		logging.info("fitting %s" % cls_name)
-		cls =  LogisticRegression(solver='sag', n_jobs=10, tol=1e-1, C=1.e4 / X_train.shape[0]) # put this here to get C correct
 		cls.fit(X_train, y_train)#, classes=all_classes)
 		preds[cls_name] = cls.predict(X)
 		# stats
