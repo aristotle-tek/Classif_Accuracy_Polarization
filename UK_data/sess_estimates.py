@@ -26,7 +26,7 @@ using pre-generated matrices from gen_mats.py.
 # arguments: (1) normalize (2) input directory (3) output mat directory (4) run id
 
 import os
-import cPickle as pickle
+import pickle as pickle
 import sys
 import logging
 
@@ -50,8 +50,8 @@ from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.linear_model import Perceptron
 from sklearn.linear_model import LogisticRegression
 
-from sklearn.cross_validation import StratifiedKFold
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import train_test_split
 
 
 from utils import has_regex, prep_year_data, fit_pred_offline_classifiers  # Functions for preparing data, etc.
@@ -123,11 +123,11 @@ def run_estimates(data_in, mats_dir, results_dir, run_id, sess_indx, randomize=0
 		logging.info("setup time: %d s"  % st_time)
 		
 		tick = time.time()
-		skf = StratifiedKFold(y, n_folds=10, shuffle=True, random_state=1234)
+		skf = StratifiedKFold(n_splits=10, shuffle=True, random_state=1234)
 		cls_stats = {}
 		preds= {}
 		foldid = 0
-		for train_index, test_index in skf:
+		for train_index, test_index in skf.split(X, y):
 			#logging.info("fold: %d" % foldid)
 			#logging.info("TRAIN: %s"  train_index)#, "TEST:", test_index)
 			X_train, X_test = X[train_index], X[test_index]
